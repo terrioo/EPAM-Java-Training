@@ -7,7 +7,6 @@ public class CountOfHeadsAndEyesOfDragon {
     private static final int HEADS_IN_SECOND_PERIOD = 2;  // head growth every year between the first and second period;
     private static final int EYES_COUNT = 2;
 
-
     public static int calculateHeads(int age) {
         if (age >= 0) {
             if (age <= FIRST_LIFE_PERIOD) {
