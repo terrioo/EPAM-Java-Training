@@ -6,6 +6,5 @@ public class Dragon {
         int head = CountOfHeadsAndEyesOfDragon.calculateHeads(age);
         int eye = CountOfHeadsAndEyesOfDragon.calculateEyes(age);
         View.print(age, head, eye);
-
     }
 }
