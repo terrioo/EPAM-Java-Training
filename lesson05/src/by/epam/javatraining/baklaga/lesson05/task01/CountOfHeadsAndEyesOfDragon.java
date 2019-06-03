@@ -11,7 +11,7 @@ public class CountOfHeadsAndEyesOfDragon {
         if (age >= 0) {
             if (age <= FIRST_LIFE_PERIOD) {
                 return HEADS_COUNT_AT_BIRTH + age * HEADS_IN_FIRST_PERIOD;
-            } else if (age > FIRST_LIFE_PERIOD && age <= SECOND_LIFE_PERIOD) {
+            } else if (age <= SECOND_LIFE_PERIOD) {
                 return HEADS_COUNT_AT_BIRTH + FIRST_LIFE_PERIOD * HEADS_IN_FIRST_PERIOD
                         + (age - FIRST_LIFE_PERIOD) * HEADS_IN_SECOND_PERIOD;
             } else if (age > SECOND_LIFE_PERIOD) {
