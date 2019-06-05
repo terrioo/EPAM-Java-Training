@@ -41,4 +41,3 @@ public class MoodSensorTest {
         assertEquals(expected, MoodSensor.showMyMood());
     }
 }
-}
