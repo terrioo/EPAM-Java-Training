@@ -10,34 +10,35 @@ public class MoodSensorTest {
     public void showMyMood1() {
         int moodIndicator = 0;
         String expected = ":(";
-        assertEquals(expected, MoodSensor.showMyMood(moodIndicator));
+        assertEquals(expected, MoodSensor.showMyMood());
     }
 
     @Test
     public void showMyMood2() {
         int moodIndicator = 1;
         String expected = ":|";
-        assertEquals(expected, MoodSensor.showMyMood(moodIndicator));
+        assertEquals(expected, MoodSensor.showMyMood());
     }
 
     @Test
     public void showMyMood3() {
         int moodIndicator = 2;
-        String expected = ":)";
-        assertEquals(expected, MoodSensor.showMyMood(moodIndicator));
+        String expected = "(-_-)";
+        assertEquals(expected, MoodSensor.showMyMood());
     }
 
     @Test
     public void showMyMood4() {
         int moodIndicator = 3;
-        String expected = "(-_-)";
-        assertEquals(expected, MoodSensor.showMyMood(moodIndicator));
+        String expected = ":)";
+        assertEquals(expected, MoodSensor.showMyMood());
     }
 
     @Test
     public void showMyMood5() {
         int moodIndicator = 77;
-        String expected = "(-_-)";
-        assertEquals(expected, MoodSensor.showMyMood(moodIndicator));
+        String expected = ":|";
+        assertEquals(expected, MoodSensor.showMyMood());
     }
+}
 }
