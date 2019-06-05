@@ -46,6 +46,7 @@ public class VowelCheck {
     }
 
     public static boolean isVowel6(char letter) {
+        letter = Character.toLowerCase(letter);
         return VOWELS.indexOf(letter) >= 0;
     }
 
