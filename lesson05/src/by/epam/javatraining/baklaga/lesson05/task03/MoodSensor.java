@@ -7,7 +7,7 @@ public class MoodSensor {
     public static final Random random = new Random();
     public static final int MOOD_INDICATOR = 4;
     public static final String SAD = ":(";
-    public static final String NEUTRAL = ":)";
+    public static final String NEUTRAL = ":|";
     public static final String SO_SO = "(-_-)";
     public static final String SMILE = ":)";
 
