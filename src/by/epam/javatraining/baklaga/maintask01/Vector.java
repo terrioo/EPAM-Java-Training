@@ -6,7 +6,7 @@ public class Vector {
         vector = VectorLogic.fillArray(vector);     // fill array with randomized values;
         double number = 6.0;
         boolean nullVector = VectorLogic.checkNull(vector);
-        if (nullVector != true) {
+       if (nullVector != true) {
             Printer.printArray(vector);
 
             double maxValue = VectorLogic.findMaxValue(vector);
@@ -38,12 +38,12 @@ public class Vector {
             double[] bubbleSortIncrease = VectorLogic.sortBubbleIncrease(vector);
             Printer.printArray(bubbleSortIncrease);
 
+            // Binary algorithm can use only for sorted massive;
+            int resultOfBinarySearchNumber = VectorLogic.binarySearch(bubbleSortIncrease, number);
+            Printer.printResultOfSearch(resultOfBinarySearchNumber);
+
             double[] bubbleSortDecrease = VectorLogic.sortBubbleDecrease(vector);
             Printer.printArray(bubbleSortDecrease);
-
-            // Binary algorithm can use only for sorted massive;
-            int resultOfBinarySearchNumber = VectorLogic.binarySearch(bubbleSortDecrease, number);
-            Printer.printResultOfSearch(resultOfBinarySearchNumber);
 
             double[] insertionSortIncrease = VectorLogic.sortInsertionIncrease(vector);
             Printer.printArray(insertionSortIncrease);
