@@ -48,7 +48,7 @@ public class VectorLogic {
     // Find arithmetic average;
     public static double calculateArithmeticAverage(double[] vector) {
         double sumOfValues = 0;
-        for (int i = 1; i < vector.length; ++i) {
+        for (int i = 0; i < vector.length; ++i) {
             sumOfValues += vector[i];
         }
         return sumOfValues /= vector.length;
