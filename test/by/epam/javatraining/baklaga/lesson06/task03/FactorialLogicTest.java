@@ -19,4 +19,11 @@ public class FactorialLogicTest {
         int expected = 720;
         assertEquals(expected, FactorialLogic.findFactorial(number));
     }
+    
+     @Test
+    public void findFactorialZero() {
+        int number = 0;
+        int expected = 1;
+        assertEquals(expected, FactorialLogic.findFactorial(number));
+    }
 }
