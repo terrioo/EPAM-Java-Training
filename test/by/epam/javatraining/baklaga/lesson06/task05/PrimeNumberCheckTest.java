@@ -15,8 +15,22 @@ public class PrimeNumberCheckTest {
 
     @Test
     public void isNumberPrimeWrong() {
-        int number = -20;
-        boolean expected = true;
+        int number = 55;
+        boolean expected = false;
+        assertEquals(expected, PrimeNumberCheck.isNumberPrime(number));
+    }
+
+    @Test
+    public void isNumberPrimeZero() {
+        int number = 0;
+        boolean expected = false;
+        assertEquals(expected, PrimeNumberCheck.isNumberPrime(number));
+    }
+
+    @Test
+    public void isNumberPrimeNegative() {
+        int number = -40;
+        boolean expected = false;
         assertEquals(expected, PrimeNumberCheck.isNumberPrime(number));
     }
 }
