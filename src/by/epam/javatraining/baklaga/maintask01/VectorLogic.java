@@ -29,26 +29,26 @@ public class VectorLogic {
 
     // Find the maximum value of vector;
     public static double findMaxValue(double[] vector) {
-        double min = vector[0];
+        double max = vector[0];
         for (int i = 1; i < vector.length; i++) {
-            min = min < vector[i] ? vector[i] : min;
+            max = max < vector[i] ? vector[i] : max;
         }
-        return min;
+        return max;
     }
 
     // Find the minimum value of vector;
     public static double findMinValue(double[] vector) {
-        double max = vector[0];
+        double min = vector[0];
         for (int i = 1; i < vector.length; i++) {
-            max = max > vector[i] ? vector[i] : max;
+            min = min > vector[i] ? vector[i] : min;
         }
-        return max;
+        return min;
     }
 
     // Find arithmetic average;
     public static double calculateArithmeticAverage(double[] vector) {
         double sumOfValues = 0;
-        for (int i = 0; i < vector.length; ++i) {
+        for (int i = 0; i < vector.length; i++) {
             sumOfValues += vector[i];
         }
         return sumOfValues /= vector.length;
@@ -112,13 +112,12 @@ public class VectorLogic {
 
     // Reverse array;
     public static double[] reverseVector(double[] vector) {
-        // double newValue;
+        // double newValue;                                     !!!!
         for (int i = 0; i < vector.length / HALF; i++) {
             exchangeElements(vector, i, vector.length - 1 - i);
         }
         return vector;
     }
-
 
     // Search the value among values of vector;
 
@@ -318,23 +317,3 @@ public class VectorLogic {
         return vector;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
