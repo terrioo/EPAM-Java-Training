@@ -2,7 +2,10 @@ package by.epam.javatraining.baklaga.maintask01;
 
 import java.util.Random;
 
+import org.apache.log4j.Logger;
+
 public class VectorLogic {
+    private static final Logger LOGGER = Logger.getRootLogger();
     public static final Random random = new Random();
     public static final int RANDOM_INDICATOR = 16;
     public static final int NO_RESULT = -1;
@@ -10,13 +13,16 @@ public class VectorLogic {
 
     // Fill the array with random values;
     public static double[] fillArray(double[] vector) {
+        LOGGER.debug("Fill the array with random values");
         for (int i = 0; i < vector.length; i++) {
             vector[i] = random.nextInt(RANDOM_INDICATOR);
         }
         return vector;
     }
+
     // Check is vector null array or not;
     public static boolean checkNull(double[] vector) {
+        LOGGER.debug("Check is vector null array or not");
         return vector.length == 0 || vector.length == 1;
     }
 
@@ -29,6 +35,7 @@ public class VectorLogic {
 
     // Find the maximum value of vector;
     public static double findMaxValue(double[] vector) {
+        LOGGER.debug("Find the maximum value of vector");
         double max = vector[0];
         for (int i = 1; i < vector.length; i++) {
             max = max < vector[i] ? vector[i] : max;
@@ -38,6 +45,7 @@ public class VectorLogic {
 
     // Find the minimum value of vector;
     public static double findMinValue(double[] vector) {
+        LOGGER.debug("Find the minimum value of vector");
         double min = vector[0];
         for (int i = 1; i < vector.length; i++) {
             min = min > vector[i] ? vector[i] : min;
@@ -47,6 +55,7 @@ public class VectorLogic {
 
     // Find arithmetic average;
     public static double calculateArithmeticAverage(double[] vector) {
+        LOGGER.debug("Find arithmetic average");
         double sumOfValues = 0;
         for (int i = 0; i < vector.length; i++) {
             sumOfValues += vector[i];
@@ -56,6 +65,7 @@ public class VectorLogic {
 
     // Find geometric mean;
     public static double calculateGeometricMean(double[] vector) {
+        LOGGER.debug("Find geometric mean");
         double multiplication = 1.0;
         for (int i = 0; i < vector.length; i++) {
             multiplication *= vector[i];
@@ -65,6 +75,7 @@ public class VectorLogic {
 
     // Check is the array sorted;
     public static boolean isSequenceRise(double[] vector) {
+        LOGGER.debug("Check is the array sorted - is sequence rise");
         for (int i = 0; i < vector.length - 1; i++) {
             if (!(vector[i] < vector[i + 1])) {
                 return false;
@@ -74,6 +85,7 @@ public class VectorLogic {
     }
 
     public static boolean isSequenceDown(double[] vector) {
+        LOGGER.debug("Check is the array sorted - is sequence down");
         for (int i = 0; i < vector.length - 1; i++) {
             if (!(vector[i] > vector[i + 1])) {
                 return false;
@@ -83,11 +95,14 @@ public class VectorLogic {
     }
 
     public static boolean isArraySorted(double[] vector) {
+
+        LOGGER.debug("Check is the array sorted");
         return isSequenceRise(vector) || isSequenceDown(vector);
     }
 
     // Find the index of local maximum;
     public static int findIndexOfLocalMax(double[] vector) {
+        LOGGER.debug("Find the index of local maximum");
         for (int i = 0; i < vector.length; ++i) {
             if ((i == 0 && vector[i] > vector[i + 1])
                     || (i == vector.length - 1 && vector[i - 1] < vector[i])
@@ -100,6 +115,7 @@ public class VectorLogic {
 
     // Find the index of local minimum;
     public static int findIndexOfLocalMin(double[] vector) {
+        LOGGER.debug("Find the index of local minimum");
         for (int i = 0; i < vector.length; ++i) {
             if ((i == 0 && vector[i] < vector[i + 1])
                     || (i == vector.length - 1 && vector[i - 1] > vector[i])
@@ -112,7 +128,7 @@ public class VectorLogic {
 
     // Reverse array;
     public static double[] reverseVector(double[] vector) {
-        // double newValue;                                     !!!!
+        LOGGER.debug("Reverse array");
         for (int i = 0; i < vector.length / HALF; i++) {
             exchangeElements(vector, i, vector.length - 1 - i);
         }
@@ -123,6 +139,7 @@ public class VectorLogic {
 
     // Use  linear algorithm;
     public static int linearSearch(double[] vector, double number) {
+        LOGGER.debug("Search the value among values of vector by linear algorithm");
         for (int i = 0; i < vector.length; i++) {
             if (vector[i] == number) {
                 return i;
@@ -133,6 +150,7 @@ public class VectorLogic {
 
     // Use  binary algorithm (can use only for sorted massive);
     public static int binarySearch(double[] vector, double number) {
+        LOGGER.debug("Search the value among values of vector by binary algorithm");
         sortBubbleIncrease(vector);
         int firstIndex = 0;
         int lastIndex = vector.length - 1;
@@ -153,6 +171,7 @@ public class VectorLogic {
 
     // Bubble sort;
     public static double[] sortBubbleIncrease(double[] vector) {
+        LOGGER.debug("Bubble sort: increase");
         for (int i = 1; i < vector.length; ++i) {
             for (int j = 0; j < vector.length - i; ++j) {
                 if (vector[j] > vector[j + 1]) {
@@ -164,6 +183,7 @@ public class VectorLogic {
     }
 
     public static double[] sortBubbleDecrease(double[] vector) {
+        LOGGER.debug("Bubble sort: decrease");
         for (int i = 1; i < vector.length; ++i) {
             for (int j = 0; j < vector.length - i; ++j) {
                 if (vector[j] < vector[j + 1]) {
@@ -176,6 +196,7 @@ public class VectorLogic {
 
     // Insertion sort;
     public static double[] sortInsertionIncrease(double[] vector) {
+        LOGGER.debug("Insertion sort: increase");
         for (int left = 0; left < vector.length; left++) {
             double value = vector[left];
             int i = left - 1;
@@ -192,6 +213,7 @@ public class VectorLogic {
     }
 
     public static double[] sortInsertionDecrease(double[] vector) {
+        LOGGER.debug("Insertion sort: decrease");
         for (int left = 0; left < vector.length; left++) {
             double value = vector[left];
             int i = left - 1;
@@ -209,8 +231,8 @@ public class VectorLogic {
 
 
     // Selection sort;
-
     public static double[] sortSelectionIncrease(double[] vector) {
+        LOGGER.debug("Selection sort: increase");
         for (int i = 0; i < vector.length; i++) {
             int minIndex = i;
             for (int j = i; j < vector.length; j++) {
@@ -225,6 +247,7 @@ public class VectorLogic {
     }
 
     public static double[] sortSelectionDecrease(double[] vector) {
+        LOGGER.debug("Selection sort: decrease");
 
         for (int i = 0; i < vector.length; i++) {
 
@@ -271,11 +294,13 @@ public class VectorLogic {
     }
 
     public static double[] sortQuickIncrease(double[] vector) {
+        LOGGER.debug("Quick sort: increase");
         sortQuick(vector, 0, vector.length - 1, true);
         return vector;
     }
 
     public static double[] sortQuickDecrease(double[] vector) {
+        LOGGER.debug("Quick sort: decrease");
         sortQuick(vector, 0, vector.length - 1, false);
         return vector;
     }
@@ -308,11 +333,13 @@ public class VectorLogic {
     }
 
     public static double[] sortMergeIncrease(double[] vector) {
+        LOGGER.debug("Merge sort: increase");
         sortMerge(vector, 0, vector.length - 1, true);
         return vector;
     }
 
     public static double[] sortMergeDecrease(double[] vector) {
+        LOGGER.debug("Merge sort: decrease");
         sortMerge(vector, 0, vector.length - 1, false);
         return vector;
     }
