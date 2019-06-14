@@ -26,4 +26,11 @@ public class EvenNumberLogicTest {
         boolean expected = true;
         assertEquals(expected, EvenNumberLogic.isAllNumbersEvenOrOdd(number));
     }
+    
+    @Test
+    public void isAllNumbersEvenOrOddZero() {
+        int number = 0;
+        boolean expected = false;
+        assertEquals(expected, EvenNumberLogic.isAllNumbersEvenOrOdd(number));
+    }
 }
