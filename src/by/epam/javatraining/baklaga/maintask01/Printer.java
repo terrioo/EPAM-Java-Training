@@ -25,6 +25,5 @@ public class Printer {
         if (result == true) {
             LOGGER.info("Numbers form a sequence");
         } else LOGGER.info("Numbers don't form a sequence");
-
     }
 }
