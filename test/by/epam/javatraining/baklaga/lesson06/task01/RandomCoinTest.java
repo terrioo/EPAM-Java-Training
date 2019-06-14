@@ -12,6 +12,13 @@ public class RandomCoinTest {
         int expected = 0;
         assertEquals(expected, RandomCoin.throwCoinFindHeads(count));
     }
+    
+    @Test
+    public void throwCoinFindHeadsCountZero() {
+        int count = 0;
+        int expected = 0;
+        assertEquals(expected, RandomCoin.throwCoinFindHeads(count));
+    }
 
     @Test
     public void findTails() {
