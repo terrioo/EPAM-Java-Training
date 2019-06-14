@@ -1,12 +1,29 @@
 package by.epam.javatraining.baklaga.maintask01;
 
+/**
+ * The program is used for vector operations.
+ * It solves the following tasks:
+ * 1. Find extreme values
+ * 2. Find arithmetic average and geometric mean values of vector
+ * 3. Check if array is sorted
+ * 4. Find first local extreme ofvector
+ * 5. Search the element of vector
+ * 6. Reverse vector
+ * 7. Sort values of vector by different sort algorithms
+ *
+ * @author Baklaga Tatsiana
+ * @version 1.0
+ * @date 10/06/2019
+ */
+
+
 public class Vector {
     public static void main(String[] args) throws NullArrayException {
         double[] vector = new double[10];
         vector = VectorLogic.fillArray(vector);     // fill array with randomized values;
         double number = 6.0;
         boolean nullVector = VectorLogic.checkNull(vector);
-       if (nullVector != true) {
+        if (nullVector != true) {
             Printer.printArray(vector);
 
             double maxValue = VectorLogic.findMaxValue(vector);
@@ -38,12 +55,12 @@ public class Vector {
             double[] bubbleSortIncrease = VectorLogic.sortBubbleIncrease(vector);
             Printer.printArray(bubbleSortIncrease);
 
-            // Binary algorithm can use only for sorted massive;
-            int resultOfBinarySearchNumber = VectorLogic.binarySearch(bubbleSortIncrease, number);
-            Printer.printResultOfSearch(resultOfBinarySearchNumber);
-
             double[] bubbleSortDecrease = VectorLogic.sortBubbleDecrease(vector);
             Printer.printArray(bubbleSortDecrease);
+
+            // Binary algorithm can use only for sorted massive;
+            int resultOfBinarySearchNumber = VectorLogic.binarySearch(bubbleSortDecrease, number);
+            Printer.printResultOfSearch(resultOfBinarySearchNumber);
 
             double[] insertionSortIncrease = VectorLogic.sortInsertionIncrease(vector);
             Printer.printArray(insertionSortIncrease);
