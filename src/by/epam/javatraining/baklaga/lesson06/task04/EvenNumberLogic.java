@@ -24,6 +24,9 @@ public class EvenNumberLogic {
     }
 
     public static boolean isAllNumbersEvenOrOdd(int number) {
-        return isNumberEven(number) || isNumberOdd(number);
+        if (number == 0) {
+            return false;
+        } else return isNumberEven(number) || isNumberOdd(number);
     }
 }
+
