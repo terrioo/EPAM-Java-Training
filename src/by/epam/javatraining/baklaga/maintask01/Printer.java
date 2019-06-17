@@ -21,6 +21,12 @@ public class Printer {
         } else LOGGER.info("The required value belongs to the vector. It's index is " + result);
     }
 
+    public static void printGeometricMean(double result) {
+        if (result == -1) {
+            LOGGER.info("The array contains negative numbers. Geometric average can be considered only for positive numbers.");
+        } else LOGGER.info("GeometricMean is " + result);
+    }
+
     public static void isArraySorted(boolean result) {
         if (result == true) {
             LOGGER.info("Numbers form a sequence");
