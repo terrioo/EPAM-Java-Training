@@ -1,0 +1,2334 @@
+2019-06-17 13:51:00,090 DEBUG root : Fill the array with random values
+2019-06-17 13:51:00,102  INFO root : [13.0, 11.0, 2.0, 14.0, 14.0, 12.0, 0.0, 11.0, 0.0, 12.0]
+2019-06-17 13:51:00,104 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,104 DEBUG root : Find the maximum value of vector
+2019-06-17 13:51:00,104  INFO root : Max value is 14.0
+2019-06-17 13:51:00,104 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,104 DEBUG root : Find the minimum value of vector
+2019-06-17 13:51:00,105  INFO root : Min value is 0.0
+2019-06-17 13:51:00,105 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,105 DEBUG root : Find arithmetic average
+2019-06-17 13:51:00,105  INFO root : ArithmeticAverage is 8.9
+2019-06-17 13:51:00,105 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,105 DEBUG root : Find geometric mean
+2019-06-17 13:51:00,106  INFO root : GeometricMean is 3.8263116058236264
+2019-06-17 13:51:00,106 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,106 DEBUG root : Check is the array sorted
+2019-06-17 13:51:00,106 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,106 DEBUG root : Check is the array sorted - is sequence rise
+2019-06-17 13:51:00,106 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,106 DEBUG root : Check is the array sorted - is sequence down
+2019-06-17 13:51:00,106  INFO root : Numbers don't form a sequence
+2019-06-17 13:51:00,106 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,107 DEBUG root : Find the index of local maximum
+2019-06-17 13:51:00,107  INFO root : Index of local maximum is 0.0
+2019-06-17 13:51:00,107 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,107 DEBUG root : Find the index of local minimum
+2019-06-17 13:51:00,107  INFO root : Index of local minimum is 2.0
+2019-06-17 13:51:00,107 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,107 DEBUG root : Reverse array
+2019-06-17 13:51:00,108  INFO root : [12.0, 0.0, 11.0, 0.0, 12.0, 14.0, 14.0, 2.0, 11.0, 13.0]
+2019-06-17 13:51:00,108 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,108 DEBUG root : Search the value among values of vector by linear algorithm
+2019-06-17 13:51:00,108  INFO root : The required value is missing
+2019-06-17 13:51:00,108 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,108 DEBUG root : Bubble sort: increase
+2019-06-17 13:51:00,109  INFO root : [0.0, 0.0, 2.0, 11.0, 11.0, 12.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 13:51:00,109 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,109 DEBUG root : Bubble sort: decrease
+2019-06-17 13:51:00,109  INFO root : [14.0, 14.0, 13.0, 12.0, 12.0, 11.0, 11.0, 2.0, 0.0, 0.0]
+2019-06-17 13:51:00,109 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,109 DEBUG root : Search the value among values of vector by binary algorithm
+2019-06-17 13:51:00,109 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,109 DEBUG root : Bubble sort: increase
+2019-06-17 13:51:00,110  INFO root : The required value is missing
+2019-06-17 13:51:00,110 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,110 DEBUG root : Insertion sort: increase
+2019-06-17 13:51:00,110  INFO root : [0.0, 0.0, 2.0, 11.0, 11.0, 12.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 13:51:00,110 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,110 DEBUG root : Insertion sort: decrease
+2019-06-17 13:51:00,110  INFO root : [14.0, 14.0, 13.0, 12.0, 12.0, 11.0, 11.0, 2.0, 0.0, 0.0]
+2019-06-17 13:51:00,111 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,111 DEBUG root : Selection sort: increase
+2019-06-17 13:51:00,111  INFO root : [0.0, 0.0, 2.0, 11.0, 11.0, 12.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 13:51:00,111 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,111 DEBUG root : Selection sort: decrease
+2019-06-17 13:51:00,111  INFO root : [14.0, 14.0, 13.0, 12.0, 12.0, 11.0, 11.0, 2.0, 0.0, 0.0]
+2019-06-17 13:51:00,111 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,112 DEBUG root : Quick sort: increase
+2019-06-17 13:51:00,112  INFO root : [0.0, 0.0, 2.0, 11.0, 11.0, 12.0, 13.0, 12.0, 14.0, 14.0]
+2019-06-17 13:51:00,112 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,112 DEBUG root : Quick sort: decrease
+2019-06-17 13:51:00,112  INFO root : [14.0, 14.0, 13.0, 12.0, 12.0, 11.0, 2.0, 11.0, 0.0, 0.0]
+2019-06-17 13:51:00,112 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,113 DEBUG root : Merge sort: increase
+2019-06-17 13:51:00,113  INFO root : [0.0, 0.0, 2.0, 11.0, 11.0, 12.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 13:51:00,113 DEBUG root : Check is vector null array or not
+2019-06-17 13:51:00,113 DEBUG root : Merge sort: decrease
+2019-06-17 13:51:00,113  INFO root : [14.0, 14.0, 13.0, 12.0, 12.0, 11.0, 11.0, 2.0, 0.0, 0.0]
+2019-06-17 13:52:04,599 DEBUG root : Fill the array with random values
+2019-06-17 13:52:04,606  INFO root : [12.0, 4.0, 8.0, 14.0, 6.0, 5.0, 14.0, 7.0, 8.0, 3.0]
+2019-06-17 13:52:04,608 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,609 DEBUG root : Find the maximum value of vector
+2019-06-17 13:52:04,609  INFO root : Max value is 14.0
+2019-06-17 13:52:04,609 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,609 DEBUG root : Find the minimum value of vector
+2019-06-17 13:52:04,610  INFO root : Min value is 3.0
+2019-06-17 13:52:04,610 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,610 DEBUG root : Find arithmetic average
+2019-06-17 13:52:04,610  INFO root : ArithmeticAverage is 8.1
+2019-06-17 13:52:04,610 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,611 DEBUG root : Find geometric mean
+2019-06-17 13:52:04,611  INFO root : GeometricMean is 7.209444173624491
+2019-06-17 13:52:04,611 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,611 DEBUG root : Check is the array sorted
+2019-06-17 13:52:04,617 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,622 DEBUG root : Check is the array sorted - is sequence rise
+2019-06-17 13:52:04,623 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,623 DEBUG root : Check is the array sorted - is sequence down
+2019-06-17 13:52:04,623  INFO root : Numbers don't form a sequence
+2019-06-17 13:52:04,623 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,623 DEBUG root : Find the index of local maximum
+2019-06-17 13:52:04,623  INFO root : Index of local maximum is 0.0
+2019-06-17 13:52:04,623 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,623 DEBUG root : Find the index of local minimum
+2019-06-17 13:52:04,624  INFO root : Index of local minimum is 1.0
+2019-06-17 13:52:04,624 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,624 DEBUG root : Reverse array
+2019-06-17 13:52:04,624  INFO root : [3.0, 8.0, 7.0, 14.0, 5.0, 6.0, 14.0, 8.0, 4.0, 12.0]
+2019-06-17 13:52:04,624 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,624 DEBUG root : Search the value among values of vector by linear algorithm
+2019-06-17 13:52:04,624  INFO root : The required value belongs to the vector. It's index is 5
+2019-06-17 13:52:04,625 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,625 DEBUG root : Bubble sort: increase
+2019-06-17 13:52:04,625  INFO root : [3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 8.0, 12.0, 14.0, 14.0]
+2019-06-17 13:52:04,625 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,625 DEBUG root : Bubble sort: decrease
+2019-06-17 13:52:04,625  INFO root : [14.0, 14.0, 12.0, 8.0, 8.0, 7.0, 6.0, 5.0, 4.0, 3.0]
+2019-06-17 13:52:04,625 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,626 DEBUG root : Search the value among values of vector by binary algorithm
+2019-06-17 13:52:04,626 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,626 DEBUG root : Bubble sort: increase
+2019-06-17 13:52:04,626  INFO root : The required value belongs to the vector. It's index is 3
+2019-06-17 13:52:04,626 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,626 DEBUG root : Insertion sort: increase
+2019-06-17 13:52:04,627  INFO root : [3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 8.0, 12.0, 14.0, 14.0]
+2019-06-17 13:52:04,627 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,627 DEBUG root : Insertion sort: decrease
+2019-06-17 13:52:04,627  INFO root : [14.0, 14.0, 12.0, 8.0, 8.0, 7.0, 6.0, 5.0, 4.0, 3.0]
+2019-06-17 13:52:04,627 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,627 DEBUG root : Selection sort: increase
+2019-06-17 13:52:04,627  INFO root : [3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 8.0, 12.0, 14.0, 14.0]
+2019-06-17 13:52:04,628 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,628 DEBUG root : Selection sort: decrease
+2019-06-17 13:52:04,628  INFO root : [14.0, 14.0, 12.0, 8.0, 8.0, 7.0, 6.0, 5.0, 4.0, 3.0]
+2019-06-17 13:52:04,628 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,628 DEBUG root : Quick sort: increase
+2019-06-17 13:52:04,628  INFO root : [3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 8.0, 12.0, 14.0, 14.0]
+2019-06-17 13:52:04,628 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,628 DEBUG root : Quick sort: decrease
+2019-06-17 13:52:04,629  INFO root : [14.0, 14.0, 12.0, 8.0, 8.0, 6.0, 5.0, 7.0, 4.0, 3.0]
+2019-06-17 13:52:04,629 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,629 DEBUG root : Merge sort: increase
+2019-06-17 13:52:04,629  INFO root : [3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 8.0, 12.0, 14.0, 14.0]
+2019-06-17 13:52:04,629 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:04,629 DEBUG root : Merge sort: decrease
+2019-06-17 13:52:04,629  INFO root : [14.0, 14.0, 12.0, 8.0, 8.0, 7.0, 6.0, 5.0, 4.0, 3.0]
+2019-06-17 13:52:55,031 DEBUG root : Fill the array with random values
+2019-06-17 13:52:55,038  INFO root : [2.0, 7.0, 6.0, 9.0, 7.0, 9.0, 13.0, 7.0, 6.0, 2.0]
+2019-06-17 13:52:55,040 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,040 DEBUG root : Find the maximum value of vector
+2019-06-17 13:52:55,041  INFO root : Max value is 13.0
+2019-06-17 13:52:55,041 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,041 DEBUG root : Find the minimum value of vector
+2019-06-17 13:52:55,041  INFO root : Min value is 2.0
+2019-06-17 13:52:55,041 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,041 DEBUG root : Find arithmetic average
+2019-06-17 13:52:55,041  INFO root : ArithmeticAverage is 6.8
+2019-06-17 13:52:55,041 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,042 DEBUG root : Find geometric mean
+2019-06-17 13:52:55,042  INFO root : GeometricMean is 5.910286018236041
+2019-06-17 13:52:55,042 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,042 DEBUG root : Check is the array sorted
+2019-06-17 13:52:55,042 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,042 DEBUG root : Check is the array sorted - is sequence rise
+2019-06-17 13:52:55,042 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,043 DEBUG root : Check is the array sorted - is sequence down
+2019-06-17 13:52:55,043  INFO root : Numbers don't form a sequence
+2019-06-17 13:52:55,043 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,043 DEBUG root : Find the index of local maximum
+2019-06-17 13:52:55,043 TRACE root : Find the index of local maximum. Iteration step:
+2019-06-17 13:52:55,043 TRACE root : Find the index of local maximum. Iteration step:
+2019-06-17 13:52:55,043  INFO root : Index of local maximum is 1.0
+2019-06-17 13:52:55,043 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,044 DEBUG root : Find the index of local minimum
+2019-06-17 13:52:55,044  INFO root : Index of local minimum is 0.0
+2019-06-17 13:52:55,044 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,044 DEBUG root : Reverse array
+2019-06-17 13:52:55,044  INFO root : [2.0, 6.0, 7.0, 13.0, 9.0, 7.0, 9.0, 6.0, 7.0, 2.0]
+2019-06-17 13:52:55,044 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,044 DEBUG root : Search the value among values of vector by linear algorithm
+2019-06-17 13:52:55,044  INFO root : The required value belongs to the vector. It's index is 1
+2019-06-17 13:52:55,045 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,045 DEBUG root : Bubble sort: increase
+2019-06-17 13:52:55,045  INFO root : [2.0, 2.0, 6.0, 6.0, 7.0, 7.0, 7.0, 9.0, 9.0, 13.0]
+2019-06-17 13:52:55,045 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,045 DEBUG root : Bubble sort: decrease
+2019-06-17 13:52:55,045  INFO root : [13.0, 9.0, 9.0, 7.0, 7.0, 7.0, 6.0, 6.0, 2.0, 2.0]
+2019-06-17 13:52:55,045 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,045 DEBUG root : Search the value among values of vector by binary algorithm
+2019-06-17 13:52:55,046 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,046 DEBUG root : Bubble sort: increase
+2019-06-17 13:52:55,046  INFO root : The required value belongs to the vector. It's index is 2
+2019-06-17 13:52:55,046 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,046 DEBUG root : Insertion sort: increase
+2019-06-17 13:52:55,046  INFO root : [2.0, 2.0, 6.0, 6.0, 7.0, 7.0, 7.0, 9.0, 9.0, 13.0]
+2019-06-17 13:52:55,046 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,046 DEBUG root : Insertion sort: decrease
+2019-06-17 13:52:55,047  INFO root : [13.0, 9.0, 9.0, 7.0, 7.0, 7.0, 6.0, 6.0, 2.0, 2.0]
+2019-06-17 13:52:55,047 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,047 DEBUG root : Selection sort: increase
+2019-06-17 13:52:55,047  INFO root : [2.0, 2.0, 6.0, 6.0, 7.0, 7.0, 7.0, 9.0, 9.0, 13.0]
+2019-06-17 13:52:55,047 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,047 DEBUG root : Selection sort: decrease
+2019-06-17 13:52:55,047  INFO root : [13.0, 9.0, 9.0, 7.0, 7.0, 7.0, 6.0, 6.0, 2.0, 2.0]
+2019-06-17 13:52:55,047 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,048 DEBUG root : Quick sort: increase
+2019-06-17 13:52:55,048  INFO root : [2.0, 2.0, 6.0, 6.0, 7.0, 7.0, 7.0, 9.0, 9.0, 13.0]
+2019-06-17 13:52:55,048 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,048 DEBUG root : Quick sort: decrease
+2019-06-17 13:52:55,048  INFO root : [13.0, 9.0, 9.0, 7.0, 7.0, 7.0, 6.0, 6.0, 2.0, 2.0]
+2019-06-17 13:52:55,049 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,049 DEBUG root : Merge sort: increase
+2019-06-17 13:52:55,049  INFO root : [2.0, 2.0, 6.0, 6.0, 7.0, 7.0, 7.0, 9.0, 9.0, 13.0]
+2019-06-17 13:52:55,049 DEBUG root : Check is vector null array or not
+2019-06-17 13:52:55,049 DEBUG root : Merge sort: decrease
+2019-06-17 13:52:55,049  INFO root : [13.0, 9.0, 9.0, 7.0, 7.0, 7.0, 6.0, 6.0, 2.0, 2.0]
+2019-06-17 13:55:22,751[main] INFO  root  - [4.0, 5.0, 8.0, 9.0, 7.0, 4.0, 7.0, 10.0, 6.0, 1.0]
+2019-06-17 13:55:22,762[main] INFO  root  - Max value is 10.0
+2019-06-17 13:55:22,764[main] INFO  root  - Min value is 1.0
+2019-06-17 13:55:22,764[main] INFO  root  - ArithmeticAverage is 6.1
+2019-06-17 13:55:22,764[main] INFO  root  - GeometricMean is 5.282955851316194
+2019-06-17 13:55:22,764[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 13:55:22,765[main] INFO  root  - Index of local maximum is 3.0
+2019-06-17 13:55:22,765[main] INFO  root  - Index of local minimum is 0.0
+2019-06-17 13:55:22,765[main] INFO  root  - [1.0, 6.0, 10.0, 7.0, 4.0, 7.0, 9.0, 8.0, 5.0, 4.0]
+2019-06-17 13:55:22,766[main] INFO  root  - The required value belongs to the vector. It's index is 1
+2019-06-17 13:55:22,766[main] INFO  root  - [1.0, 4.0, 4.0, 5.0, 6.0, 7.0, 7.0, 8.0, 9.0, 10.0]
+2019-06-17 13:55:22,766[main] INFO  root  - [10.0, 9.0, 8.0, 7.0, 7.0, 6.0, 5.0, 4.0, 4.0, 1.0]
+2019-06-17 13:55:22,766[main] INFO  root  - The required value belongs to the vector. It's index is 4
+2019-06-17 13:55:22,766[main] INFO  root  - [1.0, 4.0, 4.0, 5.0, 6.0, 7.0, 7.0, 8.0, 9.0, 10.0]
+2019-06-17 13:55:22,767[main] INFO  root  - [10.0, 9.0, 8.0, 7.0, 7.0, 6.0, 5.0, 4.0, 4.0, 1.0]
+2019-06-17 13:55:22,767[main] INFO  root  - [1.0, 4.0, 4.0, 5.0, 6.0, 7.0, 7.0, 8.0, 9.0, 10.0]
+2019-06-17 13:55:22,767[main] INFO  root  - [10.0, 9.0, 8.0, 7.0, 7.0, 6.0, 5.0, 4.0, 4.0, 1.0]
+2019-06-17 13:55:22,767[main] INFO  root  - [1.0, 4.0, 4.0, 5.0, 6.0, 7.0, 7.0, 8.0, 9.0, 10.0]
+2019-06-17 13:55:22,768[main] INFO  root  - [10.0, 9.0, 8.0, 7.0, 7.0, 5.0, 4.0, 6.0, 4.0, 1.0]
+2019-06-17 13:55:22,768[main] INFO  root  - [1.0, 4.0, 4.0, 5.0, 6.0, 7.0, 7.0, 8.0, 9.0, 10.0]
+2019-06-17 13:55:22,768[main] INFO  root  - [10.0, 9.0, 8.0, 7.0, 7.0, 6.0, 5.0, 4.0, 4.0, 1.0]
+2019-06-17 13:55:53,385[main] DEBUG root  - Fill the array with random values
+2019-06-17 13:55:53,396[main] INFO  root  - [15.0, 7.0, 3.0, 1.0, 1.0, 6.0, 1.0, 6.0, 3.0, 10.0]
+2019-06-17 13:55:53,398[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,398[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 13:55:53,398[main] INFO  root  - Max value is 15.0
+2019-06-17 13:55:53,398[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,398[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 13:55:53,399[main] INFO  root  - Min value is 1.0
+2019-06-17 13:55:53,399[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,399[main] DEBUG root  - Find arithmetic average
+2019-06-17 13:55:53,399[main] INFO  root  - ArithmeticAverage is 5.3
+2019-06-17 13:55:53,399[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,399[main] DEBUG root  - Find geometric mean
+2019-06-17 13:55:53,400[main] INFO  root  - GeometricMean is 3.574155397885927
+2019-06-17 13:55:53,400[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,400[main] DEBUG root  - Check is the array sorted
+2019-06-17 13:55:53,400[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,400[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 13:55:53,400[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,400[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 13:55:53,400[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 13:55:53,401[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,401[main] DEBUG root  - Find the index of local maximum
+2019-06-17 13:55:53,401[main] INFO  root  - Index of local maximum is 0.0
+2019-06-17 13:55:53,401[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,401[main] DEBUG root  - Find the index of local minimum
+2019-06-17 13:55:53,401[main] INFO  root  - Index of local minimum is 6.0
+2019-06-17 13:55:53,401[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,401[main] DEBUG root  - Reverse array
+2019-06-17 13:55:53,402[main] INFO  root  - [10.0, 3.0, 6.0, 1.0, 6.0, 1.0, 1.0, 3.0, 7.0, 15.0]
+2019-06-17 13:55:53,402[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,402[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 13:55:53,402[main] INFO  root  - The required value belongs to the vector. It's index is 2
+2019-06-17 13:55:53,402[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,402[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:55:53,403[main] INFO  root  - [1.0, 1.0, 1.0, 3.0, 3.0, 6.0, 6.0, 7.0, 10.0, 15.0]
+2019-06-17 13:55:53,403[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,403[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 13:55:53,403[main] INFO  root  - [15.0, 10.0, 7.0, 6.0, 6.0, 3.0, 3.0, 1.0, 1.0, 1.0]
+2019-06-17 13:55:53,403[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,403[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 13:55:53,404[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,404[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:55:53,404[main] INFO  root  - The required value belongs to the vector. It's index is 5
+2019-06-17 13:55:53,404[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,404[main] DEBUG root  - Insertion sort: increase
+2019-06-17 13:55:53,405[main] INFO  root  - [1.0, 1.0, 1.0, 3.0, 3.0, 6.0, 6.0, 7.0, 10.0, 15.0]
+2019-06-17 13:55:53,405[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,405[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 13:55:53,405[main] INFO  root  - [15.0, 10.0, 7.0, 6.0, 6.0, 3.0, 3.0, 1.0, 1.0, 1.0]
+2019-06-17 13:55:53,405[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,405[main] DEBUG root  - Selection sort: increase
+2019-06-17 13:55:53,406[main] INFO  root  - [1.0, 1.0, 1.0, 3.0, 3.0, 6.0, 6.0, 7.0, 10.0, 15.0]
+2019-06-17 13:55:53,406[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,406[main] DEBUG root  - Selection sort: decrease
+2019-06-17 13:55:53,406[main] INFO  root  - [15.0, 10.0, 7.0, 6.0, 6.0, 3.0, 3.0, 1.0, 1.0, 1.0]
+2019-06-17 13:55:53,406[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,406[main] DEBUG root  - Quick sort: increase
+2019-06-17 13:55:53,406[main] INFO  root  - [1.0, 1.0, 1.0, 3.0, 3.0, 6.0, 7.0, 6.0, 10.0, 15.0]
+2019-06-17 13:55:53,407[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,407[main] DEBUG root  - Quick sort: decrease
+2019-06-17 13:55:53,407[main] INFO  root  - [15.0, 10.0, 7.0, 6.0, 6.0, 3.0, 1.0, 3.0, 1.0, 1.0]
+2019-06-17 13:55:53,407[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,407[main] DEBUG root  - Merge sort: increase
+2019-06-17 13:55:53,407[main] INFO  root  - [1.0, 1.0, 1.0, 3.0, 3.0, 6.0, 6.0, 7.0, 10.0, 15.0]
+2019-06-17 13:55:53,408[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:55:53,408[main] DEBUG root  - Merge sort: decrease
+2019-06-17 13:55:53,408[main] INFO  root  - [15.0, 10.0, 7.0, 6.0, 6.0, 3.0, 3.0, 1.0, 1.0, 1.0]
+2019-06-17 13:56:11,598[main] DEBUG root  - Fill the array with random values
+2019-06-17 13:56:11,608[main] INFO  root  - [8.0, 6.0, 12.0, 8.0, 4.0, 7.0, 15.0, 10.0, 7.0, 10.0]
+2019-06-17 13:56:11,610[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,610[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 13:56:11,610[main] INFO  root  - Max value is 15.0
+2019-06-17 13:56:11,610[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,610[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 13:56:11,610[main] INFO  root  - Min value is 4.0
+2019-06-17 13:56:11,610[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,611[main] DEBUG root  - Find arithmetic average
+2019-06-17 13:56:11,611[main] INFO  root  - ArithmeticAverage is 8.7
+2019-06-17 13:56:11,611[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,611[main] DEBUG root  - Find geometric mean
+2019-06-17 13:56:11,611[main] INFO  root  - GeometricMean is 8.18815358433456
+2019-06-17 13:56:11,611[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,611[main] DEBUG root  - Check is the array sorted
+2019-06-17 13:56:11,611[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,612[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 13:56:11,612[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,612[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 13:56:11,612[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 13:56:11,612[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,612[main] DEBUG root  - Find the index of local maximum
+2019-06-17 13:56:11,612[main] TRACE root  - Find the index of local maximum. Iteration step:
+2019-06-17 13:56:11,612[main] INFO  root  - Index of local maximum is 0.0
+2019-06-17 13:56:11,613[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,613[main] DEBUG root  - Find the index of local minimum
+2019-06-17 13:56:11,613[main] INFO  root  - Index of local minimum is 1.0
+2019-06-17 13:56:11,613[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,613[main] DEBUG root  - Reverse array
+2019-06-17 13:56:11,613[main] INFO  root  - [10.0, 7.0, 10.0, 15.0, 7.0, 4.0, 8.0, 12.0, 6.0, 8.0]
+2019-06-17 13:56:11,614[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,614[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 13:56:11,614[main] INFO  root  - The required value belongs to the vector. It's index is 8
+2019-06-17 13:56:11,614[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,614[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:56:11,614[main] INFO  root  - [4.0, 6.0, 7.0, 7.0, 8.0, 8.0, 10.0, 10.0, 12.0, 15.0]
+2019-06-17 13:56:11,615[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,615[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 13:56:11,615[main] INFO  root  - [15.0, 12.0, 10.0, 10.0, 8.0, 8.0, 7.0, 7.0, 6.0, 4.0]
+2019-06-17 13:56:11,615[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,615[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 13:56:11,615[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,615[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:56:11,617[main] INFO  root  - The required value belongs to the vector. It's index is 1
+2019-06-17 13:56:11,617[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,617[main] DEBUG root  - Insertion sort: increase
+2019-06-17 13:56:11,618[main] INFO  root  - [4.0, 6.0, 7.0, 7.0, 8.0, 8.0, 10.0, 10.0, 12.0, 15.0]
+2019-06-17 13:56:11,618[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,618[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 13:56:11,618[main] INFO  root  - [15.0, 12.0, 10.0, 10.0, 8.0, 8.0, 7.0, 7.0, 6.0, 4.0]
+2019-06-17 13:56:11,618[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,618[main] DEBUG root  - Selection sort: increase
+2019-06-17 13:56:11,618[main] INFO  root  - [4.0, 6.0, 7.0, 7.0, 8.0, 8.0, 10.0, 10.0, 12.0, 15.0]
+2019-06-17 13:56:11,619[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,619[main] DEBUG root  - Selection sort: decrease
+2019-06-17 13:56:11,619[main] INFO  root  - [15.0, 12.0, 10.0, 10.0, 8.0, 8.0, 7.0, 7.0, 6.0, 4.0]
+2019-06-17 13:56:11,620[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,620[main] DEBUG root  - Quick sort: increase
+2019-06-17 13:56:11,620[main] INFO  root  - [4.0, 6.0, 7.0, 7.0, 8.0, 8.0, 10.0, 10.0, 12.0, 15.0]
+2019-06-17 13:56:11,621[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,621[main] DEBUG root  - Quick sort: decrease
+2019-06-17 13:56:11,621[main] INFO  root  - [15.0, 12.0, 10.0, 10.0, 8.0, 8.0, 7.0, 7.0, 6.0, 4.0]
+2019-06-17 13:56:11,621[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,621[main] DEBUG root  - Merge sort: increase
+2019-06-17 13:56:11,621[main] INFO  root  - [4.0, 6.0, 7.0, 7.0, 8.0, 8.0, 10.0, 10.0, 12.0, 15.0]
+2019-06-17 13:56:11,621[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:56:11,622[main] DEBUG root  - Merge sort: decrease
+2019-06-17 13:56:11,622[main] INFO  root  - [15.0, 12.0, 10.0, 10.0, 8.0, 8.0, 7.0, 7.0, 6.0, 4.0]
+2019-06-17 13:57:09,395[main] DEBUG root  - Fill the array with random values
+2019-06-17 13:57:09,406[main] INFO  root  - [12.0, 14.0, 0.0, 2.0, 0.0, 12.0, 7.0, 9.0, 1.0, 9.0]
+2019-06-17 13:57:09,408[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,408[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 13:57:09,408[main] INFO  root  - Max value is 14.0
+2019-06-17 13:57:09,408[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,408[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 13:57:09,409[main] INFO  root  - Min value is 0.0
+2019-06-17 13:57:09,409[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,409[main] DEBUG root  - Find arithmetic average
+2019-06-17 13:57:09,409[main] INFO  root  - ArithmeticAverage is 6.6
+2019-06-17 13:57:09,409[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,409[main] DEBUG root  - Find geometric mean
+2019-06-17 13:57:09,409[main] INFO  root  - GeometricMean is 1.6692866808104652
+2019-06-17 13:57:09,410[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,410[main] DEBUG root  - Check is the array sorted
+2019-06-17 13:57:09,410[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,410[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 13:57:09,410[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,410[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 13:57:09,410[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 13:57:09,411[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,411[main] DEBUG root  - Find the index of local maximum
+2019-06-17 13:57:09,411[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 13:57:09,411[main] TRACE root  - Find the index of local maximum. Iteration step: 1
+2019-06-17 13:57:09,411[main] INFO  root  - Index of local maximum is 1.0
+2019-06-17 13:57:09,411[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,411[main] DEBUG root  - Find the index of local minimum
+2019-06-17 13:57:09,411[main] INFO  root  - Index of local minimum is 0.0
+2019-06-17 13:57:09,411[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,412[main] DEBUG root  - Reverse array
+2019-06-17 13:57:09,412[main] INFO  root  - [9.0, 1.0, 9.0, 7.0, 12.0, 0.0, 2.0, 0.0, 14.0, 12.0]
+2019-06-17 13:57:09,412[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,412[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 13:57:09,413[main] INFO  root  - The required value is missing
+2019-06-17 13:57:09,413[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,413[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:57:09,413[main] INFO  root  - [0.0, 0.0, 1.0, 2.0, 7.0, 9.0, 9.0, 12.0, 12.0, 14.0]
+2019-06-17 13:57:09,413[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,413[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 13:57:09,414[main] INFO  root  - [14.0, 12.0, 12.0, 9.0, 9.0, 7.0, 2.0, 1.0, 0.0, 0.0]
+2019-06-17 13:57:09,414[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,414[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 13:57:09,414[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,414[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:57:09,414[main] INFO  root  - The required value is missing
+2019-06-17 13:57:09,414[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,414[main] DEBUG root  - Insertion sort: increase
+2019-06-17 13:57:09,415[main] INFO  root  - [0.0, 0.0, 1.0, 2.0, 7.0, 9.0, 9.0, 12.0, 12.0, 14.0]
+2019-06-17 13:57:09,415[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,415[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 13:57:09,415[main] INFO  root  - [14.0, 12.0, 12.0, 9.0, 9.0, 7.0, 2.0, 1.0, 0.0, 0.0]
+2019-06-17 13:57:09,415[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,415[main] DEBUG root  - Selection sort: increase
+2019-06-17 13:57:09,416[main] INFO  root  - [0.0, 0.0, 1.0, 2.0, 7.0, 9.0, 9.0, 12.0, 12.0, 14.0]
+2019-06-17 13:57:09,416[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,416[main] DEBUG root  - Selection sort: decrease
+2019-06-17 13:57:09,416[main] INFO  root  - [14.0, 12.0, 12.0, 9.0, 9.0, 7.0, 2.0, 1.0, 0.0, 0.0]
+2019-06-17 13:57:09,417[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,417[main] DEBUG root  - Quick sort: increase
+2019-06-17 13:57:09,417[main] INFO  root  - [0.0, 0.0, 1.0, 2.0, 7.0, 9.0, 9.0, 12.0, 12.0, 14.0]
+2019-06-17 13:57:09,417[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,417[main] DEBUG root  - Quick sort: decrease
+2019-06-17 13:57:09,417[main] INFO  root  - [14.0, 12.0, 12.0, 9.0, 9.0, 2.0, 1.0, 7.0, 0.0, 0.0]
+2019-06-17 13:57:09,418[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,418[main] DEBUG root  - Merge sort: increase
+2019-06-17 13:57:09,418[main] INFO  root  - [0.0, 0.0, 1.0, 2.0, 7.0, 9.0, 9.0, 12.0, 12.0, 14.0]
+2019-06-17 13:57:09,418[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:57:09,418[main] DEBUG root  - Merge sort: decrease
+2019-06-17 13:57:09,418[main] INFO  root  - [14.0, 12.0, 12.0, 9.0, 9.0, 7.0, 2.0, 1.0, 0.0, 0.0]
+2019-06-17 13:58:15,876[main] DEBUG root  - Fill the array with random values
+2019-06-17 13:58:15,887[main] INFO  root  - [9.0, 4.0, 6.0, 0.0, 0.0, 9.0, 6.0, 11.0, 2.0, 10.0]
+2019-06-17 13:58:15,896[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,896[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 13:58:15,896[main] TRACE root  - Find the maximum value of vector. Iteration step: 1
+2019-06-17 13:58:15,896[main] TRACE root  - Find the maximum value of vector. Iteration step: 2
+2019-06-17 13:58:15,896[main] TRACE root  - Find the maximum value of vector. Iteration step: 3
+2019-06-17 13:58:15,896[main] TRACE root  - Find the maximum value of vector. Iteration step: 4
+2019-06-17 13:58:15,897[main] TRACE root  - Find the maximum value of vector. Iteration step: 5
+2019-06-17 13:58:15,897[main] TRACE root  - Find the maximum value of vector. Iteration step: 6
+2019-06-17 13:58:15,897[main] TRACE root  - Find the maximum value of vector. Iteration step: 7
+2019-06-17 13:58:15,897[main] TRACE root  - Find the maximum value of vector. Iteration step: 8
+2019-06-17 13:58:15,897[main] TRACE root  - Find the maximum value of vector. Iteration step: 9
+2019-06-17 13:58:15,897[main] INFO  root  - Max value is 11.0
+2019-06-17 13:58:15,897[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,897[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 13:58:15,897[main] INFO  root  - Min value is 0.0
+2019-06-17 13:58:15,898[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,898[main] DEBUG root  - Find arithmetic average
+2019-06-17 13:58:15,898[main] INFO  root  - ArithmeticAverage is 5.7
+2019-06-17 13:58:15,898[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,898[main] DEBUG root  - Find geometric mean
+2019-06-17 13:58:15,898[main] INFO  root  - GeometricMean is 1.711769859409705
+2019-06-17 13:58:15,898[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,898[main] DEBUG root  - Check is the array sorted
+2019-06-17 13:58:15,899[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,899[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 13:58:15,899[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,899[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 13:58:15,899[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 13:58:15,899[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,899[main] DEBUG root  - Find the index of local maximum
+2019-06-17 13:58:15,899[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 13:58:15,899[main] INFO  root  - Index of local maximum is 0.0
+2019-06-17 13:58:15,900[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,900[main] DEBUG root  - Find the index of local minimum
+2019-06-17 13:58:15,900[main] INFO  root  - Index of local minimum is 1.0
+2019-06-17 13:58:15,900[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,900[main] DEBUG root  - Reverse array
+2019-06-17 13:58:15,900[main] INFO  root  - [10.0, 2.0, 11.0, 6.0, 9.0, 0.0, 0.0, 6.0, 4.0, 9.0]
+2019-06-17 13:58:15,900[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,901[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 13:58:15,901[main] INFO  root  - The required value belongs to the vector. It's index is 3
+2019-06-17 13:58:15,901[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,901[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:58:15,901[main] INFO  root  - [0.0, 0.0, 2.0, 4.0, 6.0, 6.0, 9.0, 9.0, 10.0, 11.0]
+2019-06-17 13:58:15,901[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,901[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 13:58:15,902[main] INFO  root  - [11.0, 10.0, 9.0, 9.0, 6.0, 6.0, 4.0, 2.0, 0.0, 0.0]
+2019-06-17 13:58:15,902[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,902[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 13:58:15,902[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,902[main] DEBUG root  - Bubble sort: increase
+2019-06-17 13:58:15,902[main] INFO  root  - The required value belongs to the vector. It's index is 4
+2019-06-17 13:58:15,902[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,902[main] DEBUG root  - Insertion sort: increase
+2019-06-17 13:58:15,903[main] INFO  root  - [0.0, 0.0, 2.0, 4.0, 6.0, 6.0, 9.0, 9.0, 10.0, 11.0]
+2019-06-17 13:58:15,903[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,903[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 13:58:15,903[main] INFO  root  - [11.0, 10.0, 9.0, 9.0, 6.0, 6.0, 4.0, 2.0, 0.0, 0.0]
+2019-06-17 13:58:15,903[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,903[main] DEBUG root  - Selection sort: increase
+2019-06-17 13:58:15,903[main] INFO  root  - [0.0, 0.0, 2.0, 4.0, 6.0, 6.0, 9.0, 9.0, 10.0, 11.0]
+2019-06-17 13:58:15,904[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,904[main] DEBUG root  - Selection sort: decrease
+2019-06-17 13:58:15,904[main] INFO  root  - [11.0, 10.0, 9.0, 9.0, 6.0, 6.0, 4.0, 2.0, 0.0, 0.0]
+2019-06-17 13:58:15,904[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,904[main] DEBUG root  - Quick sort: increase
+2019-06-17 13:58:15,904[main] INFO  root  - [0.0, 0.0, 2.0, 4.0, 6.0, 6.0, 9.0, 9.0, 10.0, 11.0]
+2019-06-17 13:58:15,905[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,905[main] DEBUG root  - Quick sort: decrease
+2019-06-17 13:58:15,905[main] INFO  root  - [11.0, 10.0, 9.0, 9.0, 6.0, 6.0, 4.0, 2.0, 0.0, 0.0]
+2019-06-17 13:58:15,905[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,905[main] DEBUG root  - Merge sort: increase
+2019-06-17 13:58:15,905[main] INFO  root  - [0.0, 0.0, 2.0, 4.0, 6.0, 6.0, 9.0, 9.0, 10.0, 11.0]
+2019-06-17 13:58:15,906[main] DEBUG root  - Check is vector null array or not
+2019-06-17 13:58:15,906[main] DEBUG root  - Merge sort: decrease
+2019-06-17 13:58:15,906[main] INFO  root  - [11.0, 10.0, 9.0, 9.0, 6.0, 6.0, 4.0, 2.0, 0.0, 0.0]
+2019-06-17 14:01:40,531[main] DEBUG root  - Fill the array with random values
+2019-06-17 14:01:40,542[main] INFO  root  - [6.0, 14.0, 8.0, 15.0, 13.0, 13.0, 1.0, 11.0, 7.0, 6.0]
+2019-06-17 14:01:40,544[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,544[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 1
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 2
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 3
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 4
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 5
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 6
+2019-06-17 14:01:40,545[main] TRACE root  - Find the maximum value of vector. Iteration step: 7
+2019-06-17 14:01:40,546[main] TRACE root  - Find the maximum value of vector. Iteration step: 8
+2019-06-17 14:01:40,546[main] TRACE root  - Find the maximum value of vector. Iteration step: 9
+2019-06-17 14:01:40,546[main] INFO  root  - Max value is 15.0
+2019-06-17 14:01:40,546[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,546[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 14:01:40,547[main] TRACE root  - Find the minimum value of vector. Iteration step: 1
+2019-06-17 14:01:40,547[main] TRACE root  - Find the minimum value of vector. Iteration step: 2
+2019-06-17 14:01:40,547[main] TRACE root  - Find the minimum value of vector. Iteration step: 3
+2019-06-17 14:01:40,547[main] TRACE root  - Find the minimum value of vector. Iteration step: 4
+2019-06-17 14:01:40,548[main] TRACE root  - Find the minimum value of vector. Iteration step: 5
+2019-06-17 14:01:40,548[main] TRACE root  - Find the minimum value of vector. Iteration step: 6
+2019-06-17 14:01:40,548[main] TRACE root  - Find the minimum value of vector. Iteration step: 7
+2019-06-17 14:01:40,548[main] TRACE root  - Find the minimum value of vector. Iteration step: 8
+2019-06-17 14:01:40,549[main] TRACE root  - Find the minimum value of vector. Iteration step: 9
+2019-06-17 14:01:40,549[main] INFO  root  - Min value is 1.0
+2019-06-17 14:01:40,549[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,549[main] DEBUG root  - Find arithmetic average
+2019-06-17 14:01:40,549[main] TRACE root  - Find arithmetic average. Iteration step: 0
+2019-06-17 14:01:40,549[main] TRACE root  - Find arithmetic average. Iteration step: 1
+2019-06-17 14:01:40,549[main] TRACE root  - Find arithmetic average. Iteration step: 2
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 3
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 4
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 5
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 6
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 7
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 8
+2019-06-17 14:01:40,550[main] TRACE root  - Find arithmetic average. Iteration step: 9
+2019-06-17 14:01:40,550[main] INFO  root  - ArithmeticAverage is 9.4
+2019-06-17 14:01:40,551[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,551[main] DEBUG root  - Find geometric mean
+2019-06-17 14:01:40,551[main] TRACE root  - Find geometric mean. Iteration step: 0
+2019-06-17 14:01:40,551[main] TRACE root  - Find geometric mean. Iteration step: 1
+2019-06-17 14:01:40,551[main] TRACE root  - Find geometric mean. Iteration step: 2
+2019-06-17 14:01:40,551[main] TRACE root  - Find geometric mean. Iteration step: 3
+2019-06-17 14:01:40,551[main] TRACE root  - Find geometric mean. Iteration step: 4
+2019-06-17 14:01:40,551[main] TRACE root  - Find geometric mean. Iteration step: 5
+2019-06-17 14:01:40,552[main] TRACE root  - Find geometric mean. Iteration step: 6
+2019-06-17 14:01:40,552[main] TRACE root  - Find geometric mean. Iteration step: 7
+2019-06-17 14:01:40,552[main] TRACE root  - Find geometric mean. Iteration step: 8
+2019-06-17 14:01:40,552[main] TRACE root  - Find geometric mean. Iteration step: 9
+2019-06-17 14:01:40,553[main] INFO  root  - GeometricMean is 7.755305693658062
+2019-06-17 14:01:40,553[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,553[main] DEBUG root  - Check is the array sorted
+2019-06-17 14:01:40,553[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,553[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 14:01:40,553[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 0
+2019-06-17 14:01:40,553[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 1
+2019-06-17 14:01:40,554[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,554[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 14:01:40,554[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 0
+2019-06-17 14:01:40,554[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 14:01:40,554[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,554[main] DEBUG root  - Find the index of local maximum
+2019-06-17 14:01:40,556[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 14:01:40,556[main] TRACE root  - Find the index of local maximum. Iteration step: 1
+2019-06-17 14:01:40,556[main] INFO  root  - Index of local maximum is 1.0
+2019-06-17 14:01:40,556[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,557[main] DEBUG root  - Find the index of local minimum
+2019-06-17 14:01:40,557[main] TRACE root  - Find the index of local minimum. Iteration step: 0
+2019-06-17 14:01:40,557[main] INFO  root  - Index of local minimum is 0.0
+2019-06-17 14:01:40,557[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,557[main] DEBUG root  - Reverse array
+2019-06-17 14:01:40,557[main] TRACE root  - Reverse array. Iteration step: 0
+2019-06-17 14:01:40,557[main] TRACE root  - Reverse array. Iteration step: 1
+2019-06-17 14:01:40,558[main] TRACE root  - Reverse array. Iteration step: 2
+2019-06-17 14:01:40,558[main] TRACE root  - Reverse array. Iteration step: 3
+2019-06-17 14:01:40,558[main] TRACE root  - Reverse array. Iteration step: 4
+2019-06-17 14:01:40,558[main] INFO  root  - [6.0, 7.0, 11.0, 1.0, 13.0, 13.0, 15.0, 8.0, 14.0, 6.0]
+2019-06-17 14:01:40,559[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,559[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 14:01:40,559[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 0
+2019-06-17 14:01:40,559[main] INFO  root  - The required value belongs to the vector. It's index is 0
+2019-06-17 14:01:40,559[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,559[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:01:40,559[main] INFO  root  - [1.0, 6.0, 6.0, 7.0, 8.0, 11.0, 13.0, 13.0, 14.0, 15.0]
+2019-06-17 14:01:40,560[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,560[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 14:01:40,560[main] INFO  root  - [15.0, 14.0, 13.0, 13.0, 11.0, 8.0, 7.0, 6.0, 6.0, 1.0]
+2019-06-17 14:01:40,560[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,560[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 14:01:40,560[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,560[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:01:40,560[main] TRACE root  - Search the value among values of vector by binary algorith: 0
+2019-06-17 14:01:40,561[main] TRACE root  - Search the value among values of vector by binary algorith: 1
+2019-06-17 14:01:40,561[main] INFO  root  - The required value belongs to the vector. It's index is 1
+2019-06-17 14:01:40,561[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,561[main] DEBUG root  - Insertion sort: increase
+2019-06-17 14:01:40,561[main] INFO  root  - [1.0, 6.0, 6.0, 7.0, 8.0, 11.0, 13.0, 13.0, 14.0, 15.0]
+2019-06-17 14:01:40,561[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,561[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 14:01:40,562[main] INFO  root  - [15.0, 14.0, 13.0, 13.0, 11.0, 8.0, 7.0, 6.0, 6.0, 1.0]
+2019-06-17 14:01:40,562[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,562[main] DEBUG root  - Selection sort: increase
+2019-06-17 14:01:40,562[main] INFO  root  - [1.0, 6.0, 6.0, 7.0, 8.0, 11.0, 13.0, 13.0, 14.0, 15.0]
+2019-06-17 14:01:40,562[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,562[main] DEBUG root  - Selection sort: decrease
+2019-06-17 14:01:40,563[main] INFO  root  - [15.0, 14.0, 13.0, 13.0, 11.0, 8.0, 7.0, 6.0, 6.0, 1.0]
+2019-06-17 14:01:40,563[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,563[main] DEBUG root  - Quick sort: increase
+2019-06-17 14:01:40,563[main] INFO  root  - [1.0, 6.0, 6.0, 7.0, 8.0, 11.0, 13.0, 13.0, 14.0, 15.0]
+2019-06-17 14:01:40,563[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,563[main] DEBUG root  - Quick sort: decrease
+2019-06-17 14:01:40,563[main] INFO  root  - [15.0, 14.0, 13.0, 13.0, 11.0, 8.0, 7.0, 6.0, 6.0, 1.0]
+2019-06-17 14:01:40,564[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,564[main] DEBUG root  - Merge sort: increase
+2019-06-17 14:01:40,564[main] INFO  root  - [1.0, 6.0, 6.0, 7.0, 8.0, 11.0, 13.0, 13.0, 14.0, 15.0]
+2019-06-17 14:01:40,564[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:01:40,564[main] DEBUG root  - Merge sort: decrease
+2019-06-17 14:01:40,564[main] INFO  root  - [15.0, 14.0, 13.0, 13.0, 11.0, 8.0, 7.0, 6.0, 6.0, 1.0]
+2019-06-17 14:06:29,123[main] DEBUG root  - Fill the array with random values
+2019-06-17 14:06:29,136[main] INFO  root  - [11.0, 15.0, 7.0, 1.0, 7.0, 13.0, 5.0, 15.0, 10.0, 7.0]
+2019-06-17 14:06:29,138[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,138[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 14:06:29,138[main] TRACE root  - Find the maximum value of vector. Iteration step: 1
+2019-06-17 14:06:29,138[main] TRACE root  - Find the maximum value of vector. Iteration step: 2
+2019-06-17 14:06:29,138[main] TRACE root  - Find the maximum value of vector. Iteration step: 3
+2019-06-17 14:06:29,139[main] TRACE root  - Find the maximum value of vector. Iteration step: 4
+2019-06-17 14:06:29,139[main] TRACE root  - Find the maximum value of vector. Iteration step: 5
+2019-06-17 14:06:29,139[main] TRACE root  - Find the maximum value of vector. Iteration step: 6
+2019-06-17 14:06:29,139[main] TRACE root  - Find the maximum value of vector. Iteration step: 7
+2019-06-17 14:06:29,139[main] TRACE root  - Find the maximum value of vector. Iteration step: 8
+2019-06-17 14:06:29,139[main] TRACE root  - Find the maximum value of vector. Iteration step: 9
+2019-06-17 14:06:29,139[main] INFO  root  - Max value is 15.0
+2019-06-17 14:06:29,139[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,140[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 1
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 2
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 3
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 4
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 5
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 6
+2019-06-17 14:06:29,140[main] TRACE root  - Find the minimum value of vector. Iteration step: 7
+2019-06-17 14:06:29,141[main] TRACE root  - Find the minimum value of vector. Iteration step: 8
+2019-06-17 14:06:29,141[main] TRACE root  - Find the minimum value of vector. Iteration step: 9
+2019-06-17 14:06:29,141[main] INFO  root  - Min value is 1.0
+2019-06-17 14:06:29,141[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,141[main] DEBUG root  - Find arithmetic average
+2019-06-17 14:06:29,142[main] TRACE root  - Find arithmetic average. Iteration step: 0
+2019-06-17 14:06:29,142[main] TRACE root  - Find arithmetic average. Iteration step: 1
+2019-06-17 14:06:29,142[main] TRACE root  - Find arithmetic average. Iteration step: 2
+2019-06-17 14:06:29,142[main] TRACE root  - Find arithmetic average. Iteration step: 3
+2019-06-17 14:06:29,142[main] TRACE root  - Find arithmetic average. Iteration step: 4
+2019-06-17 14:06:29,143[main] TRACE root  - Find arithmetic average. Iteration step: 5
+2019-06-17 14:06:29,143[main] TRACE root  - Find arithmetic average. Iteration step: 6
+2019-06-17 14:06:29,143[main] TRACE root  - Find arithmetic average. Iteration step: 7
+2019-06-17 14:06:29,143[main] TRACE root  - Find arithmetic average. Iteration step: 8
+2019-06-17 14:06:29,144[main] TRACE root  - Find arithmetic average. Iteration step: 9
+2019-06-17 14:06:29,144[main] INFO  root  - ArithmeticAverage is 9.1
+2019-06-17 14:06:29,144[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,144[main] DEBUG root  - Find geometric mean
+2019-06-17 14:06:29,144[main] TRACE root  - Find geometric mean. Iteration step: 0
+2019-06-17 14:06:29,145[main] TRACE root  - Find geometric mean. Iteration step: 1
+2019-06-17 14:06:29,145[main] TRACE root  - Find geometric mean. Iteration step: 2
+2019-06-17 14:06:29,145[main] TRACE root  - Find geometric mean. Iteration step: 3
+2019-06-17 14:06:29,145[main] TRACE root  - Find geometric mean. Iteration step: 4
+2019-06-17 14:06:29,145[main] TRACE root  - Find geometric mean. Iteration step: 5
+2019-06-17 14:06:29,146[main] TRACE root  - Find geometric mean. Iteration step: 6
+2019-06-17 14:06:29,146[main] TRACE root  - Find geometric mean. Iteration step: 7
+2019-06-17 14:06:29,146[main] TRACE root  - Find geometric mean. Iteration step: 8
+2019-06-17 14:06:29,146[main] TRACE root  - Find geometric mean. Iteration step: 9
+2019-06-17 14:06:29,147[main] INFO  root  - GeometricMean is 7.48476670093327
+2019-06-17 14:06:29,147[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,147[main] DEBUG root  - Check is the array sorted
+2019-06-17 14:06:29,147[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,147[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 14:06:29,147[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 0
+2019-06-17 14:06:29,148[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 1
+2019-06-17 14:06:29,148[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,148[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 14:06:29,148[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 0
+2019-06-17 14:06:29,148[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 14:06:29,148[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,149[main] DEBUG root  - Find the index of local maximum
+2019-06-17 14:06:29,149[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 14:06:29,149[main] TRACE root  - Find the index of local maximum. Iteration step: 1
+2019-06-17 14:06:29,149[main] INFO  root  - Index of local maximum is 1.0
+2019-06-17 14:06:29,150[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,150[main] DEBUG root  - Find the index of local minimum
+2019-06-17 14:06:29,150[main] TRACE root  - Find the index of local minimum. Iteration step: 0
+2019-06-17 14:06:29,150[main] INFO  root  - Index of local minimum is 0.0
+2019-06-17 14:06:29,150[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,151[main] DEBUG root  - Reverse array
+2019-06-17 14:06:29,151[main] TRACE root  - Reverse array. Iteration step: 0
+2019-06-17 14:06:29,151[main] TRACE root  - Reverse array. Iteration step: 1
+2019-06-17 14:06:29,151[main] TRACE root  - Reverse array. Iteration step: 2
+2019-06-17 14:06:29,151[main] TRACE root  - Reverse array. Iteration step: 3
+2019-06-17 14:06:29,151[main] TRACE root  - Reverse array. Iteration step: 4
+2019-06-17 14:06:29,157[main] INFO  root  - [7.0, 10.0, 15.0, 5.0, 13.0, 7.0, 1.0, 7.0, 15.0, 11.0]
+2019-06-17 14:06:29,160[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,161[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 14:06:29,161[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 0
+2019-06-17 14:06:29,161[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 1
+2019-06-17 14:06:29,161[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 2
+2019-06-17 14:06:29,161[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 3
+2019-06-17 14:06:29,161[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 4
+2019-06-17 14:06:29,162[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 5
+2019-06-17 14:06:29,162[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 6
+2019-06-17 14:06:29,162[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 7
+2019-06-17 14:06:29,162[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 8
+2019-06-17 14:06:29,162[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 9
+2019-06-17 14:06:29,163[main] INFO  root  - The required value is missing
+2019-06-17 14:06:29,163[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,163[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,164[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,165[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,165[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,165[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,165[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,165[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,165[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,166[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,167[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,167[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,167[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,167[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,167[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,167[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,168[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:06:29,169[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:06:29,170[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:06:29,170[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:06:29,170[main] INFO  root  - [1.0, 5.0, 7.0, 7.0, 7.0, 10.0, 11.0, 13.0, 15.0, 15.0]
+2019-06-17 14:06:29,170[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,170[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 14:06:29,170[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,170[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,170[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,171[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,174[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,175[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,176[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:06:29,177[main] TRACE root  - Bubble sort: decrease. Iteration step: 9
+2019-06-17 14:06:29,177[main] INFO  root  - [15.0, 15.0, 13.0, 11.0, 10.0, 7.0, 7.0, 7.0, 5.0, 1.0]
+2019-06-17 14:06:29,178[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,178[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 14:06:29,178[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,178[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:06:29,178[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,178[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,178[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,178[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,179[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:06:29,180[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:06:29,181[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:06:29,182[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:06:29,182[main] TRACE root  - Search the value among values of vector by binary algorithm: 0
+2019-06-17 14:06:29,182[main] TRACE root  - Search the value among values of vector by binary algorithm: 1
+2019-06-17 14:06:29,183[main] TRACE root  - Search the value among values of vector by binary algorithm: 2
+2019-06-17 14:06:29,183[main] INFO  root  - The required value is missing
+2019-06-17 14:06:29,183[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,183[main] DEBUG root  - Insertion sort: increase
+2019-06-17 14:06:29,183[main] TRACE root  - Insertion sort: increase. Iteration step: 0
+2019-06-17 14:06:29,183[main] TRACE root  - Insertion sort: increase. Iteration step: 1
+2019-06-17 14:06:29,183[main] TRACE root  - Insertion sort: increase. Iteration step: 2
+2019-06-17 14:06:29,183[main] TRACE root  - Insertion sort: increase. Iteration step: 3
+2019-06-17 14:06:29,184[main] TRACE root  - Insertion sort: increase. Iteration step: 4
+2019-06-17 14:06:29,184[main] TRACE root  - Insertion sort: increase. Iteration step: 5
+2019-06-17 14:06:29,184[main] TRACE root  - Insertion sort: increase. Iteration step: 6
+2019-06-17 14:06:29,184[main] TRACE root  - Insertion sort: increase. Iteration step: 7
+2019-06-17 14:06:29,184[main] TRACE root  - Insertion sort: increase. Iteration step: 8
+2019-06-17 14:06:29,184[main] TRACE root  - Insertion sort: increase. Iteration step: 9
+2019-06-17 14:06:29,184[main] INFO  root  - [1.0, 5.0, 7.0, 7.0, 7.0, 10.0, 11.0, 13.0, 15.0, 15.0]
+2019-06-17 14:06:29,184[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,184[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,185[main] TRACE root  - Insertion sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,186[main] TRACE root  - Insertion sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,186[main] TRACE root  - Insertion sort: decrease. Iteration step: 8
+2019-06-17 14:06:29,186[main] TRACE root  - Insertion sort: decrease. Iteration step: 9
+2019-06-17 14:06:29,186[main] INFO  root  - [15.0, 15.0, 13.0, 11.0, 10.0, 7.0, 7.0, 7.0, 5.0, 1.0]
+2019-06-17 14:06:29,186[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,186[main] DEBUG root  - Selection sort: increase
+2019-06-17 14:06:29,186[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,186[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,186[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,186[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,187[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,188[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:06:29,189[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:06:29,192[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:06:29,193[main] TRACE root  - Selection sort: increase. Iteration step: 9
+2019-06-17 14:06:29,194[main] INFO  root  - [1.0, 5.0, 7.0, 7.0, 7.0, 10.0, 11.0, 13.0, 15.0, 15.0]
+2019-06-17 14:06:29,194[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,194[main] DEBUG root  - Selection sort: decrease
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,194[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:06:29,195[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,196[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,197[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:06:29,198[main] TRACE root  - Selection sort: decrease. Iteration step: 9
+2019-06-17 14:06:29,199[main] INFO  root  - [15.0, 15.0, 13.0, 11.0, 10.0, 7.0, 7.0, 7.0, 5.0, 1.0]
+2019-06-17 14:06:29,199[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,199[main] DEBUG root  - Quick sort: increase
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 1
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 2
+2019-06-17 14:06:29,199[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 7
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,200[main] TRACE root  - Quick sort. Iteration step: 2
+2019-06-17 14:06:29,201[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,201[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 7
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 1
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,202[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,202[main] INFO  root  - [1.0, 5.0, 7.0, 11.0, 7.0, 13.0, 7.0, 10.0, 15.0, 15.0]
+2019-06-17 14:06:29,203[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,203[main] DEBUG root  - Quick sort: decrease
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 1
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,203[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 8
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 6
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,204[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 1
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 0
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 5
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 2
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 3
+2019-06-17 14:06:29,205[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,206[main] TRACE root  - Quick sort. Iteration step: 4
+2019-06-17 14:06:29,206[main] INFO  root  - [15.0, 15.0, 13.0, 11.0, 10.0, 7.0, 7.0, 7.0, 5.0, 1.0]
+2019-06-17 14:06:29,206[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,206[main] DEBUG root  - Merge sort: increase
+2019-06-17 14:06:29,206[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,206[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,206[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,206[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,206[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,206[main] TRACE root  - Merge sort. Iteration step: 3
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 3
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 2
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 6
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 6
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 7
+2019-06-17 14:06:29,207[main] TRACE root  - Merge sort. Iteration step: 8
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 8
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 6
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 7
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,208[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,209[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,209[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,209[main] TRACE root  - Merge sort. Iteration step: 2
+2019-06-17 14:06:29,209[main] TRACE root  - Merge sort. Iteration step: 3
+2019-06-17 14:06:29,209[main] TRACE root  - Merge sort. Iteration step: 4
+2019-06-17 14:06:29,209[main] INFO  root  - [1.0, 5.0, 7.0, 7.0, 7.0, 10.0, 11.0, 13.0, 15.0, 15.0]
+2019-06-17 14:06:29,210[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:06:29,210[main] DEBUG root  - Merge sort: decrease
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 3
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 4
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,210[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 2
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 6
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 8
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 9
+2019-06-17 14:06:29,211[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 5
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 6
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 7
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,212[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,213[main] TRACE root  - Merge sort. Iteration step: 0
+2019-06-17 14:06:29,213[main] TRACE root  - Merge sort. Iteration step: 1
+2019-06-17 14:06:29,213[main] TRACE root  - Merge sort. Iteration step: 2
+2019-06-17 14:06:29,213[main] TRACE root  - Merge sort. Iteration step: 3
+2019-06-17 14:06:29,213[main] TRACE root  - Merge sort. Iteration step: 4
+2019-06-17 14:06:29,213[main] INFO  root  - [15.0, 15.0, 13.0, 11.0, 10.0, 7.0, 7.0, 7.0, 5.0, 1.0]
+2019-06-17 14:07:54,705[main] DEBUG root  - Fill the array with random values
+2019-06-17 14:07:54,716[main] INFO  root  - [3.0, 14.0, 9.0, 12.0, 15.0, 2.0, 0.0, 10.0, 9.0, 2.0]
+2019-06-17 14:07:54,725[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,725[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 14:07:54,725[main] TRACE root  - Find the maximum value of vector. Iteration step: 1
+2019-06-17 14:07:54,725[main] TRACE root  - Find the maximum value of vector. Iteration step: 2
+2019-06-17 14:07:54,725[main] TRACE root  - Find the maximum value of vector. Iteration step: 3
+2019-06-17 14:07:54,725[main] TRACE root  - Find the maximum value of vector. Iteration step: 4
+2019-06-17 14:07:54,726[main] TRACE root  - Find the maximum value of vector. Iteration step: 5
+2019-06-17 14:07:54,726[main] TRACE root  - Find the maximum value of vector. Iteration step: 6
+2019-06-17 14:07:54,726[main] TRACE root  - Find the maximum value of vector. Iteration step: 7
+2019-06-17 14:07:54,726[main] TRACE root  - Find the maximum value of vector. Iteration step: 8
+2019-06-17 14:07:54,726[main] TRACE root  - Find the maximum value of vector. Iteration step: 9
+2019-06-17 14:07:54,726[main] INFO  root  - Max value is 15.0
+2019-06-17 14:07:54,726[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,727[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 14:07:54,727[main] TRACE root  - Find the minimum value of vector. Iteration step: 1
+2019-06-17 14:07:54,727[main] TRACE root  - Find the minimum value of vector. Iteration step: 2
+2019-06-17 14:07:54,727[main] TRACE root  - Find the minimum value of vector. Iteration step: 3
+2019-06-17 14:07:54,727[main] TRACE root  - Find the minimum value of vector. Iteration step: 4
+2019-06-17 14:07:54,727[main] TRACE root  - Find the minimum value of vector. Iteration step: 5
+2019-06-17 14:07:54,727[main] TRACE root  - Find the minimum value of vector. Iteration step: 6
+2019-06-17 14:07:54,728[main] TRACE root  - Find the minimum value of vector. Iteration step: 7
+2019-06-17 14:07:54,728[main] TRACE root  - Find the minimum value of vector. Iteration step: 8
+2019-06-17 14:07:54,728[main] TRACE root  - Find the minimum value of vector. Iteration step: 9
+2019-06-17 14:07:54,728[main] INFO  root  - Min value is 0.0
+2019-06-17 14:07:54,728[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,728[main] DEBUG root  - Find arithmetic average
+2019-06-17 14:07:54,728[main] TRACE root  - Find arithmetic average. Iteration step: 0
+2019-06-17 14:07:54,728[main] TRACE root  - Find arithmetic average. Iteration step: 1
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 2
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 3
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 4
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 5
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 6
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 7
+2019-06-17 14:07:54,729[main] TRACE root  - Find arithmetic average. Iteration step: 8
+2019-06-17 14:07:54,730[main] TRACE root  - Find arithmetic average. Iteration step: 9
+2019-06-17 14:07:54,730[main] INFO  root  - ArithmeticAverage is 7.6
+2019-06-17 14:07:54,730[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,730[main] DEBUG root  - Find geometric mean
+2019-06-17 14:07:54,730[main] TRACE root  - Find geometric mean. Iteration step: 0
+2019-06-17 14:07:54,730[main] TRACE root  - Find geometric mean. Iteration step: 1
+2019-06-17 14:07:54,731[main] TRACE root  - Find geometric mean. Iteration step: 2
+2019-06-17 14:07:54,731[main] TRACE root  - Find geometric mean. Iteration step: 3
+2019-06-17 14:07:54,731[main] TRACE root  - Find geometric mean. Iteration step: 4
+2019-06-17 14:07:54,731[main] TRACE root  - Find geometric mean. Iteration step: 5
+2019-06-17 14:07:54,731[main] TRACE root  - Find geometric mean. Iteration step: 6
+2019-06-17 14:07:54,731[main] INFO  root  - GeometricMean is 3.261214991445897
+2019-06-17 14:07:54,732[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,732[main] DEBUG root  - Check is the array sorted
+2019-06-17 14:07:54,732[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,732[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 14:07:54,732[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 0
+2019-06-17 14:07:54,732[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 1
+2019-06-17 14:07:54,732[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,732[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 14:07:54,733[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 0
+2019-06-17 14:07:54,733[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 14:07:54,733[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,733[main] DEBUG root  - Find the index of local maximum
+2019-06-17 14:07:54,733[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 14:07:54,733[main] TRACE root  - Find the index of local maximum. Iteration step: 1
+2019-06-17 14:07:54,733[main] INFO  root  - Index of local maximum is 1.0
+2019-06-17 14:07:54,733[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,734[main] DEBUG root  - Find the index of local minimum
+2019-06-17 14:07:54,734[main] TRACE root  - Find the index of local minimum. Iteration step: 0
+2019-06-17 14:07:54,734[main] INFO  root  - Index of local minimum is 0.0
+2019-06-17 14:07:54,734[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,734[main] DEBUG root  - Reverse array
+2019-06-17 14:07:54,734[main] TRACE root  - Reverse array. Iteration step: 0
+2019-06-17 14:07:54,734[main] TRACE root  - Reverse array. Iteration step: 1
+2019-06-17 14:07:54,734[main] TRACE root  - Reverse array. Iteration step: 2
+2019-06-17 14:07:54,735[main] TRACE root  - Reverse array. Iteration step: 3
+2019-06-17 14:07:54,735[main] TRACE root  - Reverse array. Iteration step: 4
+2019-06-17 14:07:54,735[main] INFO  root  - [2.0, 9.0, 10.0, 0.0, 2.0, 15.0, 12.0, 9.0, 14.0, 3.0]
+2019-06-17 14:07:54,735[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,735[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 14:07:54,735[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 0
+2019-06-17 14:07:54,735[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 1
+2019-06-17 14:07:54,735[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 2
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 3
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 4
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 5
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 6
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 7
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 8
+2019-06-17 14:07:54,736[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 9
+2019-06-17 14:07:54,736[main] INFO  root  - The required value is missing
+2019-06-17 14:07:54,737[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,737[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,740[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,741[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,742[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,743[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:07:54,744[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:07:54,744[main] INFO  root  - [0.0, 2.0, 2.0, 3.0, 9.0, 9.0, 10.0, 12.0, 14.0, 15.0]
+2019-06-17 14:07:54,744[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,745[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,745[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,746[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,747[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,748[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,749[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,749[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:07:54,749[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:07:54,749[main] TRACE root  - Bubble sort: decrease. Iteration step: 9
+2019-06-17 14:07:54,749[main] INFO  root  - [15.0, 14.0, 12.0, 10.0, 9.0, 9.0, 3.0, 2.0, 2.0, 0.0]
+2019-06-17 14:07:54,749[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,749[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 14:07:54,749[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,749[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:07:54,749[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,750[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,750[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,752[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,752[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,752[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,752[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,753[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:07:54,754[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:07:54,755[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:07:54,756[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:07:54,756[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:07:54,756[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:07:54,756[main] TRACE root  - Search the value among values of vector by binary algorithm: 0
+2019-06-17 14:07:54,756[main] TRACE root  - Search the value among values of vector by binary algorithm: 1
+2019-06-17 14:07:54,756[main] TRACE root  - Search the value among values of vector by binary algorithm: 2
+2019-06-17 14:07:54,756[main] TRACE root  - Search the value among values of vector by binary algorithm: 3
+2019-06-17 14:07:54,756[main] INFO  root  - The required value is missing
+2019-06-17 14:07:54,756[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,756[main] DEBUG root  - Insertion sort: increase
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 0
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 1
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 2
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 3
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 4
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 5
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 6
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 7
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 8
+2019-06-17 14:07:54,757[main] TRACE root  - Insertion sort: increase. Iteration step: 9
+2019-06-17 14:07:54,757[main] INFO  root  - [0.0, 2.0, 2.0, 3.0, 9.0, 9.0, 10.0, 12.0, 14.0, 15.0]
+2019-06-17 14:07:54,758[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,758[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 14:07:54,758[main] TRACE root  - Insertion sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,758[main] TRACE root  - Insertion sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,758[main] TRACE root  - Insertion sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,758[main] TRACE root  - Insertion sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,758[main] TRACE root  - Insertion sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,759[main] TRACE root  - Insertion sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,759[main] TRACE root  - Insertion sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,759[main] TRACE root  - Insertion sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,759[main] TRACE root  - Insertion sort: decrease. Iteration step: 8
+2019-06-17 14:07:54,759[main] TRACE root  - Insertion sort: decrease. Iteration step: 9
+2019-06-17 14:07:54,759[main] INFO  root  - [15.0, 14.0, 12.0, 10.0, 9.0, 9.0, 3.0, 2.0, 2.0, 0.0]
+2019-06-17 14:07:54,759[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,759[main] DEBUG root  - Selection sort: increase
+2019-06-17 14:07:54,759[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,759[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,759[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,760[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,761[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:07:54,762[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:07:54,778[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:07:54,778[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:07:54,778[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:07:54,780[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:07:54,781[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:07:54,781[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:07:54,781[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:07:54,787[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:07:54,787[main] TRACE root  - Selection sort: increase. Iteration step: 9
+2019-06-17 14:07:54,787[main] INFO  root  - [0.0, 2.0, 2.0, 3.0, 9.0, 9.0, 10.0, 12.0, 14.0, 15.0]
+2019-06-17 14:07:54,788[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,788[main] DEBUG root  - Selection sort: decrease
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:07:54,788[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,789[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,790[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:07:54,791[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:07:54,792[main] TRACE root  - Selection sort: decrease. Iteration step: 9
+2019-06-17 14:07:54,792[main] INFO  root  - [15.0, 14.0, 12.0, 10.0, 9.0, 9.0, 3.0, 2.0, 2.0, 0.0]
+2019-06-17 14:07:54,792[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,792[main] DEBUG root  - Quick sort: increase
+2019-06-17 14:07:54,792[main] INFO  root  - [0.0, 2.0, 2.0, 3.0, 9.0, 9.0, 10.0, 12.0, 14.0, 15.0]
+2019-06-17 14:07:54,792[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,792[main] DEBUG root  - Quick sort: decrease
+2019-06-17 14:07:54,792[main] INFO  root  - [15.0, 14.0, 12.0, 10.0, 9.0, 9.0, 3.0, 2.0, 2.0, 0.0]
+2019-06-17 14:07:54,792[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,792[main] DEBUG root  - Merge sort: increase
+2019-06-17 14:07:54,793[main] INFO  root  - [0.0, 2.0, 2.0, 3.0, 9.0, 9.0, 10.0, 12.0, 14.0, 15.0]
+2019-06-17 14:07:54,793[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:07:54,793[main] DEBUG root  - Merge sort: decrease
+2019-06-17 14:07:54,793[main] INFO  root  - [15.0, 14.0, 12.0, 10.0, 9.0, 9.0, 3.0, 2.0, 2.0, 0.0]
+2019-06-17 14:08:39,980[main] DEBUG root  - Fill the array with random values
+2019-06-17 14:08:39,988[main] INFO  root  - [12.0, 14.0, 14.0, 1.0, 6.0, 0.0, 6.0, 6.0, 7.0, 13.0]
+2019-06-17 14:08:39,990[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,990[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 14:08:39,990[main] TRACE root  - Find the maximum value of vector. Iteration step: 1
+2019-06-17 14:08:39,990[main] TRACE root  - Find the maximum value of vector. Iteration step: 2
+2019-06-17 14:08:39,990[main] TRACE root  - Find the maximum value of vector. Iteration step: 3
+2019-06-17 14:08:39,990[main] TRACE root  - Find the maximum value of vector. Iteration step: 4
+2019-06-17 14:08:39,991[main] TRACE root  - Find the maximum value of vector. Iteration step: 5
+2019-06-17 14:08:39,991[main] TRACE root  - Find the maximum value of vector. Iteration step: 6
+2019-06-17 14:08:39,991[main] TRACE root  - Find the maximum value of vector. Iteration step: 7
+2019-06-17 14:08:39,991[main] TRACE root  - Find the maximum value of vector. Iteration step: 8
+2019-06-17 14:08:39,991[main] TRACE root  - Find the maximum value of vector. Iteration step: 9
+2019-06-17 14:08:39,991[main] INFO  root  - Max value is 14.0
+2019-06-17 14:08:39,991[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,991[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 14:08:39,991[main] TRACE root  - Find the minimum value of vector. Iteration step: 1
+2019-06-17 14:08:39,991[main] TRACE root  - Find the minimum value of vector. Iteration step: 2
+2019-06-17 14:08:39,991[main] TRACE root  - Find the minimum value of vector. Iteration step: 3
+2019-06-17 14:08:39,991[main] TRACE root  - Find the minimum value of vector. Iteration step: 4
+2019-06-17 14:08:39,992[main] TRACE root  - Find the minimum value of vector. Iteration step: 5
+2019-06-17 14:08:39,992[main] TRACE root  - Find the minimum value of vector. Iteration step: 6
+2019-06-17 14:08:39,992[main] TRACE root  - Find the minimum value of vector. Iteration step: 7
+2019-06-17 14:08:39,992[main] TRACE root  - Find the minimum value of vector. Iteration step: 8
+2019-06-17 14:08:39,992[main] TRACE root  - Find the minimum value of vector. Iteration step: 9
+2019-06-17 14:08:39,992[main] INFO  root  - Min value is 0.0
+2019-06-17 14:08:39,992[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,992[main] DEBUG root  - Find arithmetic average
+2019-06-17 14:08:39,992[main] TRACE root  - Find arithmetic average. Iteration step: 0
+2019-06-17 14:08:39,992[main] TRACE root  - Find arithmetic average. Iteration step: 1
+2019-06-17 14:08:39,992[main] TRACE root  - Find arithmetic average. Iteration step: 2
+2019-06-17 14:08:39,992[main] TRACE root  - Find arithmetic average. Iteration step: 3
+2019-06-17 14:08:39,992[main] TRACE root  - Find arithmetic average. Iteration step: 4
+2019-06-17 14:08:39,993[main] TRACE root  - Find arithmetic average. Iteration step: 5
+2019-06-17 14:08:39,993[main] TRACE root  - Find arithmetic average. Iteration step: 6
+2019-06-17 14:08:39,993[main] TRACE root  - Find arithmetic average. Iteration step: 7
+2019-06-17 14:08:39,993[main] TRACE root  - Find arithmetic average. Iteration step: 8
+2019-06-17 14:08:39,993[main] TRACE root  - Find arithmetic average. Iteration step: 9
+2019-06-17 14:08:39,993[main] INFO  root  - ArithmeticAverage is 7.9
+2019-06-17 14:08:39,993[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,993[main] DEBUG root  - Find geometric mean
+2019-06-17 14:08:39,993[main] TRACE root  - Find geometric mean. Iteration step: 0
+2019-06-17 14:08:39,993[main] TRACE root  - Find geometric mean. Iteration step: 1
+2019-06-17 14:08:39,993[main] TRACE root  - Find geometric mean. Iteration step: 2
+2019-06-17 14:08:39,993[main] TRACE root  - Find geometric mean. Iteration step: 3
+2019-06-17 14:08:39,993[main] TRACE root  - Find geometric mean. Iteration step: 4
+2019-06-17 14:08:39,994[main] TRACE root  - Find geometric mean. Iteration step: 5
+2019-06-17 14:08:39,994[main] INFO  root  - GeometricMean is 2.59991324672014
+2019-06-17 14:08:39,994[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,994[main] DEBUG root  - Check is the array sorted
+2019-06-17 14:08:39,994[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,994[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 14:08:39,994[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 0
+2019-06-17 14:08:39,994[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 1
+2019-06-17 14:08:39,994[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,994[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 14:08:39,994[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 0
+2019-06-17 14:08:39,994[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 14:08:39,995[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,995[main] DEBUG root  - Find the index of local maximum
+2019-06-17 14:08:39,995[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 14:08:39,995[main] TRACE root  - Find the index of local maximum. Iteration step: 1
+2019-06-17 14:08:39,995[main] TRACE root  - Find the index of local maximum. Iteration step: 2
+2019-06-17 14:08:39,995[main] TRACE root  - Find the index of local maximum. Iteration step: 3
+2019-06-17 14:08:39,995[main] TRACE root  - Find the index of local maximum. Iteration step: 4
+2019-06-17 14:08:39,995[main] INFO  root  - Index of local maximum is 4.0
+2019-06-17 14:08:39,995[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,995[main] DEBUG root  - Find the index of local minimum
+2019-06-17 14:08:39,995[main] TRACE root  - Find the index of local minimum. Iteration step: 0
+2019-06-17 14:08:39,995[main] INFO  root  - Index of local minimum is 0.0
+2019-06-17 14:08:39,995[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,996[main] DEBUG root  - Reverse array
+2019-06-17 14:08:39,996[main] TRACE root  - Reverse array. Iteration step: 0
+2019-06-17 14:08:39,996[main] TRACE root  - Reverse array. Iteration step: 1
+2019-06-17 14:08:39,996[main] TRACE root  - Reverse array. Iteration step: 2
+2019-06-17 14:08:39,996[main] TRACE root  - Reverse array. Iteration step: 3
+2019-06-17 14:08:39,996[main] TRACE root  - Reverse array. Iteration step: 4
+2019-06-17 14:08:39,996[main] INFO  root  - [13.0, 7.0, 6.0, 6.0, 0.0, 6.0, 1.0, 14.0, 14.0, 12.0]
+2019-06-17 14:08:39,996[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,996[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 14:08:39,996[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 0
+2019-06-17 14:08:39,996[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 1
+2019-06-17 14:08:39,996[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 2
+2019-06-17 14:08:39,997[main] INFO  root  - The required value belongs to the vector. It's index is 2
+2019-06-17 14:08:39,997[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:39,997[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,997[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,998[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:39,999[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,001[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,001[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,001[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:08:40,001[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:08:40,001[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:08:40,002[main] INFO  root  - [0.0, 1.0, 6.0, 6.0, 6.0, 7.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 14:08:40,002[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,002[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,002[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,003[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,004[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:08:40,005[main] TRACE root  - Bubble sort: decrease. Iteration step: 9
+2019-06-17 14:08:40,006[main] INFO  root  - [14.0, 14.0, 13.0, 12.0, 7.0, 6.0, 6.0, 6.0, 1.0, 0.0]
+2019-06-17 14:08:40,008[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,008[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 14:08:40,009[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,009[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,009[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:40,010[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:40,011[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:40,015[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:08:40,015[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,016[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,016[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,016[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:08:40,017[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:08:40,017[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:08:40,017[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:08:40,017[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:08:40,017[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:08:40,017[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:08:40,017[main] TRACE root  - Search the value among values of vector by binary algorithm: 0
+2019-06-17 14:08:40,017[main] INFO  root  - The required value belongs to the vector. It's index is 4
+2019-06-17 14:08:40,017[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,017[main] DEBUG root  - Insertion sort: increase
+2019-06-17 14:08:40,017[main] TRACE root  - Insertion sort: increase. Iteration step: 0
+2019-06-17 14:08:40,017[main] TRACE root  - Insertion sort: increase. Iteration step: 1
+2019-06-17 14:08:40,017[main] TRACE root  - Insertion sort: increase. Iteration step: 2
+2019-06-17 14:08:40,017[main] TRACE root  - Insertion sort: increase. Iteration step: 3
+2019-06-17 14:08:40,017[main] TRACE root  - Insertion sort: increase. Iteration step: 4
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: increase. Iteration step: 5
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: increase. Iteration step: 6
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: increase. Iteration step: 7
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: increase. Iteration step: 8
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: increase. Iteration step: 9
+2019-06-17 14:08:40,018[main] INFO  root  - [0.0, 1.0, 6.0, 6.0, 6.0, 7.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 14:08:40,018[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,018[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,018[main] TRACE root  - Insertion sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,019[main] TRACE root  - Insertion sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,019[main] TRACE root  - Insertion sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,019[main] TRACE root  - Insertion sort: decrease. Iteration step: 8
+2019-06-17 14:08:40,019[main] TRACE root  - Insertion sort: decrease. Iteration step: 9
+2019-06-17 14:08:40,020[main] INFO  root  - [14.0, 14.0, 13.0, 12.0, 7.0, 6.0, 6.0, 6.0, 1.0, 0.0]
+2019-06-17 14:08:40,020[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,020[main] DEBUG root  - Selection sort: increase
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:08:40,020[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,022[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:08:40,025[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:08:40,026[main] TRACE root  - Selection sort: increase. Iteration step: 9
+2019-06-17 14:08:40,027[main] INFO  root  - [0.0, 1.0, 6.0, 6.0, 6.0, 7.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 14:08:40,027[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,027[main] DEBUG root  - Selection sort: decrease
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,027[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,028[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:08:40,029[main] TRACE root  - Selection sort: decrease. Iteration step: 9
+2019-06-17 14:08:40,030[main] INFO  root  - [14.0, 14.0, 13.0, 12.0, 7.0, 6.0, 6.0, 6.0, 1.0, 0.0]
+2019-06-17 14:08:40,030[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,030[main] DEBUG root  - Quick sort: increase
+2019-06-17 14:08:40,030[main] INFO  root  - [0.0, 1.0, 6.0, 12.0, 6.0, 13.0, 6.0, 7.0, 14.0, 14.0]
+2019-06-17 14:08:40,030[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,030[main] DEBUG root  - Quick sort: decrease
+2019-06-17 14:08:40,030[main] INFO  root  - [14.0, 14.0, 13.0, 12.0, 7.0, 6.0, 6.0, 6.0, 1.0, 0.0]
+2019-06-17 14:08:40,030[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,030[main] DEBUG root  - Merge sort: increase
+2019-06-17 14:08:40,030[main] INFO  root  - [0.0, 1.0, 6.0, 6.0, 6.0, 7.0, 12.0, 13.0, 14.0, 14.0]
+2019-06-17 14:08:40,030[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:08:40,031[main] DEBUG root  - Merge sort: decrease
+2019-06-17 14:08:40,031[main] INFO  root  - [14.0, 14.0, 13.0, 12.0, 7.0, 6.0, 6.0, 6.0, 1.0, 0.0]
+2019-06-17 14:10:45,637[main] DEBUG root  - Fill the array with random values
+2019-06-17 14:10:45,645[main] INFO  root  - [10.0, 3.0, 2.0, 10.0, 13.0, 13.0, 10.0, 13.0, 4.0, 14.0]
+2019-06-17 14:10:45,654[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,654[main] DEBUG root  - Find the maximum value of vector
+2019-06-17 14:10:45,654[main] TRACE root  - Find the maximum value of vector. Iteration step: 1
+2019-06-17 14:10:45,654[main] TRACE root  - Find the maximum value of vector. Iteration step: 2
+2019-06-17 14:10:45,654[main] TRACE root  - Find the maximum value of vector. Iteration step: 3
+2019-06-17 14:10:45,655[main] TRACE root  - Find the maximum value of vector. Iteration step: 4
+2019-06-17 14:10:45,655[main] TRACE root  - Find the maximum value of vector. Iteration step: 5
+2019-06-17 14:10:45,655[main] TRACE root  - Find the maximum value of vector. Iteration step: 6
+2019-06-17 14:10:45,655[main] TRACE root  - Find the maximum value of vector. Iteration step: 7
+2019-06-17 14:10:45,655[main] TRACE root  - Find the maximum value of vector. Iteration step: 8
+2019-06-17 14:10:45,655[main] TRACE root  - Find the maximum value of vector. Iteration step: 9
+2019-06-17 14:10:45,655[main] INFO  root  - Max value is 14.0
+2019-06-17 14:10:45,655[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,655[main] DEBUG root  - Find the minimum value of vector
+2019-06-17 14:10:45,655[main] TRACE root  - Find the minimum value of vector. Iteration step: 1
+2019-06-17 14:10:45,655[main] TRACE root  - Find the minimum value of vector. Iteration step: 2
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 3
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 4
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 5
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 6
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 7
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 8
+2019-06-17 14:10:45,656[main] TRACE root  - Find the minimum value of vector. Iteration step: 9
+2019-06-17 14:10:45,656[main] INFO  root  - Min value is 2.0
+2019-06-17 14:10:45,656[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,656[main] DEBUG root  - Find arithmetic average
+2019-06-17 14:10:45,656[main] TRACE root  - Find arithmetic average. Iteration step: 0
+2019-06-17 14:10:45,656[main] TRACE root  - Find arithmetic average. Iteration step: 1
+2019-06-17 14:10:45,656[main] TRACE root  - Find arithmetic average. Iteration step: 2
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 3
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 4
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 5
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 6
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 7
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 8
+2019-06-17 14:10:45,657[main] TRACE root  - Find arithmetic average. Iteration step: 9
+2019-06-17 14:10:45,657[main] INFO  root  - ArithmeticAverage is 9.2
+2019-06-17 14:10:45,657[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,657[main] DEBUG root  - Find geometric mean
+2019-06-17 14:10:45,657[main] TRACE root  - Find geometric mean. Iteration step: 0
+2019-06-17 14:10:45,657[main] TRACE root  - Find geometric mean. Iteration step: 1
+2019-06-17 14:10:45,657[main] TRACE root  - Find geometric mean. Iteration step: 2
+2019-06-17 14:10:45,658[main] TRACE root  - Find geometric mean. Iteration step: 3
+2019-06-17 14:10:45,659[main] TRACE root  - Find geometric mean. Iteration step: 4
+2019-06-17 14:10:45,659[main] TRACE root  - Find geometric mean. Iteration step: 5
+2019-06-17 14:10:45,659[main] TRACE root  - Find geometric mean. Iteration step: 6
+2019-06-17 14:10:45,659[main] TRACE root  - Find geometric mean. Iteration step: 7
+2019-06-17 14:10:45,659[main] TRACE root  - Find geometric mean. Iteration step: 8
+2019-06-17 14:10:45,659[main] TRACE root  - Find geometric mean. Iteration step: 9
+2019-06-17 14:10:45,659[main] INFO  root  - GeometricMean is 7.7057858141597695
+2019-06-17 14:10:45,660[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,660[main] DEBUG root  - Check is the array sorted
+2019-06-17 14:10:45,660[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,661[main] DEBUG root  - Check is the array sorted - is sequence rise
+2019-06-17 14:10:45,661[main] TRACE root  - Check is the array sorted - is sequence rise. Iteration step: 0
+2019-06-17 14:10:45,663[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,663[main] DEBUG root  - Check is the array sorted - is sequence down
+2019-06-17 14:10:45,663[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 0
+2019-06-17 14:10:45,664[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 1
+2019-06-17 14:10:45,664[main] TRACE root  - Check is the array sorted - is sequence down. Iteration step: 2
+2019-06-17 14:10:45,664[main] INFO  root  - Numbers don't form a sequence
+2019-06-17 14:10:45,664[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,664[main] DEBUG root  - Find the index of local maximum
+2019-06-17 14:10:45,664[main] TRACE root  - Find the index of local maximum. Iteration step: 0
+2019-06-17 14:10:45,665[main] INFO  root  - Index of local maximum is 0.0
+2019-06-17 14:10:45,665[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,665[main] DEBUG root  - Find the index of local minimum
+2019-06-17 14:10:45,665[main] TRACE root  - Find the index of local minimum. Iteration step: 0
+2019-06-17 14:10:45,665[main] TRACE root  - Find the index of local minimum. Iteration step: 1
+2019-06-17 14:10:45,665[main] TRACE root  - Find the index of local minimum. Iteration step: 2
+2019-06-17 14:10:45,665[main] INFO  root  - Index of local minimum is 2.0
+2019-06-17 14:10:45,665[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,665[main] DEBUG root  - Reverse array
+2019-06-17 14:10:45,665[main] TRACE root  - Reverse array. Iteration step: 0
+2019-06-17 14:10:45,666[main] TRACE root  - Reverse array. Iteration step: 1
+2019-06-17 14:10:45,666[main] TRACE root  - Reverse array. Iteration step: 2
+2019-06-17 14:10:45,666[main] TRACE root  - Reverse array. Iteration step: 3
+2019-06-17 14:10:45,666[main] TRACE root  - Reverse array. Iteration step: 4
+2019-06-17 14:10:45,666[main] INFO  root  - [14.0, 4.0, 13.0, 10.0, 13.0, 13.0, 10.0, 2.0, 3.0, 10.0]
+2019-06-17 14:10:45,666[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,666[main] DEBUG root  - Search the value among values of vector by linear algorithm
+2019-06-17 14:10:45,666[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 0
+2019-06-17 14:10:45,666[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 1
+2019-06-17 14:10:45,666[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 2
+2019-06-17 14:10:45,666[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 3
+2019-06-17 14:10:45,666[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 4
+2019-06-17 14:10:45,667[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 5
+2019-06-17 14:10:45,667[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 6
+2019-06-17 14:10:45,667[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 7
+2019-06-17 14:10:45,667[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 8
+2019-06-17 14:10:45,667[main] TRACE root  - Search the value among values of vector by linear algorithm. Iteration step: 9
+2019-06-17 14:10:45,667[main] INFO  root  - The required value is missing
+2019-06-17 14:10:45,667[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,667[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,667[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,668[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,669[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:10:45,670[main] INFO  root  - [2.0, 3.0, 4.0, 10.0, 10.0, 10.0, 13.0, 13.0, 13.0, 14.0]
+2019-06-17 14:10:45,670[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,670[main] DEBUG root  - Bubble sort: decrease
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,670[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,671[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,672[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,675[main] TRACE root  - Bubble sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,675[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,675[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,675[main] TRACE root  - Bubble sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: decrease. Iteration step: 8
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: decrease. Iteration step: 9
+2019-06-17 14:10:45,676[main] INFO  root  - [14.0, 13.0, 13.0, 13.0, 10.0, 10.0, 10.0, 4.0, 3.0, 2.0]
+2019-06-17 14:10:45,676[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,676[main] DEBUG root  - Search the value among values of vector by binary algorithm
+2019-06-17 14:10:45,676[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,676[main] DEBUG root  - Bubble sort: increase
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,676[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 1
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 2
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 3
+2019-06-17 14:10:45,677[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 4
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 5
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 6
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:10:45,682[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:10:45,683[main] TRACE root  - Bubble sort: increase. Iteration step: 7
+2019-06-17 14:10:45,683[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:10:45,683[main] TRACE root  - Bubble sort: increase. Iteration step: 8
+2019-06-17 14:10:45,683[main] TRACE root  - Bubble sort: increase. Iteration step: 9
+2019-06-17 14:10:45,683[main] TRACE root  - Search the value among values of vector by binary algorithm: 0
+2019-06-17 14:10:45,683[main] TRACE root  - Search the value among values of vector by binary algorithm: 1
+2019-06-17 14:10:45,683[main] TRACE root  - Search the value among values of vector by binary algorithm: 2
+2019-06-17 14:10:45,683[main] TRACE root  - Search the value among values of vector by binary algorithm: 3
+2019-06-17 14:10:45,683[main] INFO  root  - The required value is missing
+2019-06-17 14:10:45,683[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,683[main] DEBUG root  - Insertion sort: increase
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 0
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 1
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 2
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 3
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 4
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 5
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 6
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 7
+2019-06-17 14:10:45,683[main] TRACE root  - Insertion sort: increase. Iteration step: 8
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: increase. Iteration step: 9
+2019-06-17 14:10:45,684[main] INFO  root  - [2.0, 3.0, 4.0, 10.0, 10.0, 10.0, 13.0, 13.0, 13.0, 14.0]
+2019-06-17 14:10:45,684[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,684[main] DEBUG root  - Insertion sort: decrease
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 8
+2019-06-17 14:10:45,684[main] TRACE root  - Insertion sort: decrease. Iteration step: 9
+2019-06-17 14:10:45,684[main] INFO  root  - [14.0, 13.0, 13.0, 13.0, 10.0, 10.0, 10.0, 4.0, 3.0, 2.0]
+2019-06-17 14:10:45,685[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,685[main] DEBUG root  - Selection sort: increase
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 0
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 1
+2019-06-17 14:10:45,685[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 2
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 3
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 4
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:10:45,686[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 5
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 6
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 7
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 8
+2019-06-17 14:10:45,687[main] TRACE root  - Selection sort: increase. Iteration step: 9
+2019-06-17 14:10:45,688[main] INFO  root  - [2.0, 3.0, 4.0, 10.0, 10.0, 10.0, 13.0, 13.0, 13.0, 14.0]
+2019-06-17 14:10:45,688[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,688[main] DEBUG root  - Selection sort: decrease
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,688[main] TRACE root  - Selection sort: decrease. Iteration step: 0
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 1
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 2
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,689[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 3
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 4
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 5
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,690[main] TRACE root  - Selection sort: decrease. Iteration step: 6
+2019-06-17 14:10:45,691[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,691[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,691[main] TRACE root  - Selection sort: decrease. Iteration step: 7
+2019-06-17 14:10:45,691[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:10:45,691[main] TRACE root  - Selection sort: decrease. Iteration step: 8
+2019-06-17 14:10:45,692[main] TRACE root  - Selection sort: decrease. Iteration step: 9
+2019-06-17 14:10:45,692[main] INFO  root  - [14.0, 13.0, 13.0, 13.0, 10.0, 10.0, 10.0, 4.0, 3.0, 2.0]
+2019-06-17 14:10:45,692[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,692[main] DEBUG root  - Quick sort: increase
+2019-06-17 14:10:45,692[main] INFO  root  - [2.0, 3.0, 4.0, 10.0, 10.0, 10.0, 13.0, 13.0, 13.0, 14.0]
+2019-06-17 14:10:45,692[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,692[main] DEBUG root  - Quick sort: decrease
+2019-06-17 14:10:45,692[main] INFO  root  - [14.0, 13.0, 13.0, 13.0, 10.0, 10.0, 10.0, 4.0, 3.0, 2.0]
+2019-06-17 14:10:45,692[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,692[main] DEBUG root  - Merge sort: increase
+2019-06-17 14:10:45,692[main] INFO  root  - [2.0, 3.0, 4.0, 10.0, 10.0, 10.0, 13.0, 13.0, 13.0, 14.0]
+2019-06-17 14:10:45,693[main] DEBUG root  - Check is vector null array or not
+2019-06-17 14:10:45,693[main] DEBUG root  - Merge sort: decrease
+2019-06-17 14:10:45,693[main] INFO  root  - [14.0, 13.0, 13.0, 13.0, 10.0, 10.0, 10.0, 4.0, 3.0, 2.0]
