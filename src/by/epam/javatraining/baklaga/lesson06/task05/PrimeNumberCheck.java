@@ -2,18 +2,16 @@ package by.epam.javatraining.baklaga.lesson06.task05;
 
 public class PrimeNumberCheck {
     public static boolean isNumberPrime(int number) {
+        double halfNumber = Math.sqrt(number);
         boolean result = true;
-        if (number > 0) {
-            int numberEqual = number;
-            int startingPoint = 0;
-            while (startingPoint < number && numberEqual > 2) {
-                if ((number % (numberEqual - 1)) == 0) {
-                    result = false;
-                }
-                numberEqual--;
-                startingPoint++;
+        if (number <= 1) {
+            result = false;
+        }
+        for (int i = 2; i < halfNumber; i++) {
+            if (number % i == 0) {
+                result = false;
             }
-        } else result = false;
+        }
         return result;
     }
 }
