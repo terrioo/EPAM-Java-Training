@@ -17,8 +17,8 @@ package by.epam.javatraining.baklaga.maintask01;
  */
 
 
-public class Vector {
-    public static void main(String[] args) throws NullArrayException {
+public class MainTask {
+   public static void main(String[] args) throws NullArrayException {
         double[] vector = new double[10];
         vector = Initializer.fillArray(vector);     // fill array with randomized values;
         double number = 6.0;
@@ -45,32 +45,33 @@ public class Vector {
         double localMinimum = VectorLogic.findIndexOfLocalMin(vector);
         Printer.print("Index of local minimum is " + localMinimum);
 
-        double[] reverse = VectorLogic.reverseVector(vector);
+        VectorLogic.reverseVector(vector);
+        double[] reverse = vector;
         Printer.printArray(reverse);
 
         int resultOfLinearSearchNumber = VectorLogic.linearSearch(vector, number);
         Printer.printResultOfSearch(resultOfLinearSearchNumber);
 
-        double[] bubbleSortIncrease = VectorLogic.sortBubble(vector, true);
-        Printer.printArray(bubbleSortIncrease);
+        VectorLogic.sortBubble(vector, true);
+        Printer.printArray(vector);
 
         // Binary algorithm can use only for sorted massive;
-        int resultOfBinarySearchNumber = VectorLogic.binarySearch(bubbleSortIncrease, number);
+        int resultOfBinarySearchNumber = VectorLogic.binarySearch(vector, number);
         Printer.printResultOfSearch(resultOfBinarySearchNumber);
 
-        double[] bubbleSort = VectorLogic.sortBubble(vector, sortIndicator);
-        Printer.printArray(bubbleSort);
+        VectorLogic.sortBubble(vector, sortIndicator);
+        Printer.printArray(vector);
 
-        double[] insertionSort = VectorLogic.sortInsertion(vector, sortIndicator);
-        Printer.printArray(insertionSort);
+        VectorLogic.sortInsertion(vector, sortIndicator);
+        Printer.printArray(vector);
 
-        double[] selectionSort = VectorLogic.sortSelection(vector, sortIndicator);
-        Printer.printArray(selectionSort);
+        VectorLogic.sortSelection(vector, sortIndicator);
+        Printer.printArray(vector);
 
-        double[] quickSort = VectorLogic.sortQuick(vector, sortIndicator);
-        Printer.printArray(quickSort);
+        VectorLogic.sortQuick(vector, sortIndicator);
+        Printer.printArray(vector);
 
-        double[] mergeSort = VectorLogic.sortMerge(vector, sortIndicator);
-        Printer.printArray(mergeSort);
+        VectorLogic.sortMerge(vector, sortIndicator);
+        Printer.printArray(vector);
     }
 }
