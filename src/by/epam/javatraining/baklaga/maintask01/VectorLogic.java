@@ -140,14 +140,13 @@ public class VectorLogic {
     }
 
     // Reverse array;
-    public static double[] reverseVector(double[] vector) throws NullArrayException {
+    public static void reverseVector(double[] vector) throws NullArrayException {
         checkNull(vector);
         LOGGER.debug("Reverse array");
         for (int i = 0; i < vector.length / HALF; i++) {
             LOGGER.trace("Reverse array. Iteration step: " + i);
             exchangeElements(vector, i, vector.length - 1 - i);
         }
-        return vector;
     }
 
     // Search the value among values of vector;
@@ -192,7 +191,7 @@ public class VectorLogic {
     // Sort array: sortIndicator demonstrate will be array sort increase or decrease;
 
     // Bubble sort;
-    public static double[] sortBubble(double[] vector, boolean sortIndicator) throws NullArrayException {
+    public static void sortBubble(double[] vector, boolean sortIndicator) throws NullArrayException {
         checkNull(vector);
         LOGGER.debug("Bubble sort");
         for (int i = 1; i < vector.length; ++i) {
@@ -209,12 +208,11 @@ public class VectorLogic {
                 }
             }
         }
-        return vector;
     }
 
 
     // Insertion sort;
-    public static double[] sortInsertion(double[] vector, boolean sortIndicator) throws NullArrayException {
+    public static void sortInsertion(double[] vector, boolean sortIndicator) throws NullArrayException {
         checkNull(vector);
         LOGGER.debug("Insertion sort");
         for (int left = 0; left < vector.length; left++) {
@@ -238,11 +236,10 @@ public class VectorLogic {
             }
             vector[i + 1] = value;
         }
-        return vector;
     }
 
     // Selection sort;
-    public static double[] sortSelection(double[] vector, boolean sortIndicator) throws NullArrayException {
+    public static void sortSelection(double[] vector, boolean sortIndicator) throws NullArrayException {
         checkNull(vector);
         LOGGER.debug("Selection sort");
         for (int i = 0; i < vector.length; i++) {
@@ -261,7 +258,6 @@ public class VectorLogic {
                 exchangeElements(vector, i, index);
             }
         }
-        return vector;
     }
 
 
@@ -294,7 +290,7 @@ public class VectorLogic {
         }
     }
 
-    public static double[] sortQuick(double[] vector, boolean sortIndicator) throws NullArrayException {
+    public static void sortQuick(double[] vector, boolean sortIndicator) throws NullArrayException {
         checkNull(vector);
         LOGGER.debug("Quick sort: increase");
         if (sortIndicator) {
@@ -302,8 +298,6 @@ public class VectorLogic {
         } else {
             sortQuick(vector, 0, vector.length - 1, false);
         }
-
-        return vector;
     }
 
 
@@ -334,7 +328,7 @@ public class VectorLogic {
         }
     }
 
-    public static double[] sortMerge(double[] vector, boolean sortIndicator) throws NullArrayException {
+    public static void sortMerge(double[] vector, boolean sortIndicator) throws NullArrayException {
         checkNull(vector);
         LOGGER.debug("Merge sort");
         if (sortIndicator) {
@@ -342,6 +336,5 @@ public class VectorLogic {
         } else {
             sortMerge(vector, 0, vector.length - 1, false);
         }
-        return vector;
     }
 }
