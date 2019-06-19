@@ -15,11 +15,11 @@ public class MoodSensor {
         String mood = NEUTRAL;
         switch (random.nextInt(MOOD_INDICATOR)) {
             case 0:
-                mood = SAD;
+                mood = SAD; break;
             case 2:
-                mood = SO_SO;
+                mood = SO_SO; break;
             case 3:
-                mood = SMILE;
+                mood = SMILE; break;
         }
         return mood;
     }
