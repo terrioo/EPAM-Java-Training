@@ -12,7 +12,7 @@ public class VectorLogic {
     // Check is vector null array or not;
     public static void checkNull(double[] vector) throws NullArrayException {
         LOGGER.debug("Check is vector null array or not");
-        if (vector.length == 0 || vector == null) {
+        if (vector == null || vector.length == 0) {
             throw new NullArrayException("Vector can't be null. It's length must be greater than 0.");
         }
     }
