@@ -8,6 +8,25 @@ import by.epam.javatraining.baklaga.maintask02.utility.Initializer;
 import by.epam.javatraining.baklaga.maintask02.view.Info;
 import org.apache.log4j.Logger;
 
+/**
+ * This program demonstrate information about all cars in taxopark
+ * User can get the following information:
+ * 1. Data for each car
+ * 2. Information about the cheapest car
+ * 3. Information about the most expensive car
+ * 4. Information about car with the lowest rental price per hour
+ * 5. Information about car with the highest rental price per hour
+ * 6. Information about cars with price per hour less than 20BYN
+ * 7. Sort list by price per hour
+ * 8. Sort list by fuel consumption
+ *
+ * @author Baklaga Tatsiana
+ * @version 1.0
+ * @date 22/06/2019
+ */
+
+
+
 public class Main {
 
     private static final Logger log = Logger.getRootLogger();
